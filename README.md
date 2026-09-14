@@ -1,6 +1,6 @@
 # National Occupational Standard (NOS) Framework
 
-Converts the Nigerian National Board for Technical Education (NBTE) National Occupational Standard PDFs into structured **JSON** and plain **text** formats for developers building skills platforms, LMS, assessment tools, and skills registries.
+Converts the Nigerian National Board for Technical Education (NBTE) National Occupational Standard PDFs into structured **JSON** for developers building skills platforms, LMS, assessment tools, and skills registries.
 
 📥 Download NOS PDFs from: [NBTE NOS Public Dashboard](https://www.digitalnbte.nbte.gov.ng/Public/PUCNOS)
 
@@ -20,6 +20,8 @@ Converts the Nigerian National Board for Technical Education (NBTE) National Occ
 │   ├── level-4/
 │   └── level-5/
 ```
+
+Extracted JSON files follow the naming convention `NOS <Trade Name>.json` (for example, `NOS Painting and decoration.json` or `NOS ICT Web Development.json`). The NSQ level lives inside each file's `level` field and unit codes, not in the filename suffix.
 
 ## Data Model
 

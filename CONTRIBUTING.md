@@ -47,7 +47,9 @@ Download the NOS PDF from the public NBTE portal:
 **Naming convention** — Rename the downloaded file before placing it in `worker/`:
 
 - Regular trades: `"NOS Course Name"` (e.g., `"NOS Painting and Decoration.pdf"`)
-- ICT courses: `"NOS ICT Course Name"` (e.g., `"NOS ICT Cybersecurity Engineering L5.pdf"`)
+- ICT courses: `"NOS ICT Course Name"` (e.g., `"NOS ICT Cybersecurity Engineering.pdf"`)
+
+The extracted JSON file keeps the same base name (for example, `NOS ICT Cybersecurity Engineering.json`) and does **not** carry an `L#` suffix. Level information lives in the file's `level` field and in each unit code.
 
 Then copy your PDF into the `worker/` directory:
 
@@ -74,8 +76,8 @@ These NOS have already been converted to JSON. Pick a trade **not** listed here 
 | Fish Farming Activity (Aquaculture) | ✅ | ✅ | ✅ | | |
 | Furniture Making and Upholstery | ✅ | ✅ | ✅ | | |
 | ICT Back-End Web Development | | | ✅ | | |
-| ICT CAD CAM | | | ✅ | | |
 | ICT Cinematography | | | ✅ | | |
+| ICT Computer Aided Design & Computer Aided Manufacturing | | | ✅ | | |
 | ICT Computer Hardware Repairs & Maintenance | ✅ | ✅ | ✅ | | |
 | ICT Computer Networking | ✅ | ✅ | ✅ | | |
 | ICT Computer Operation | | ✅ | | | |
@@ -87,15 +89,16 @@ These NOS have already been converted to JSON. Pick a trade **not** listed here 
 | ICT Digital Service Operations | | ✅ | ✅ | | |
 | ICT Front-End Web Development | | | ✅ | | |
 | ICT Mobile App Development | | | | | ✅ |
-| ICT Mobile Phone RM | | ✅ | | | |
+| ICT Mobile Phone Repairs and Maintenance | | ✅ | | | |
 | ICT Network Cabling, Installation and Maintenance | | ✅ | | | |
 | ICT Network Support Specialist | | | | ✅ | |
 | ICT Programming with PHP using Laravel and MySql | | | | | ✅ |
-| ICT Social Media Communication | | | ✅ | | |
 | ICT Social Media Contents Creation and Management | ✅ | ✅ | ✅ | | |
 | ICT Web Development | | ✅ | ✅ | ✅ | |
 | Leather Works | ✅ | ✅ | ✅ | | |
 | Masonry | ✅ | ✅ | ✅ | | |
+| Mobile Phone Repairs and Maintenance | | ✅ | | | |
+| Network Cabling, Installation and Maintenance | | ✅ | | | |
 | Painting and Decoration | ✅ | ✅ | ✅ | | |
 | Plumbing | ✅ | ✅ | ✅ | | |
 | Refrigeration and Air Conditioning | ✅ | ✅ | ✅ | | |
@@ -104,7 +107,11 @@ These NOS have already been converted to JSON. Pick a trade **not** listed here 
 | Tilling and Decorative Stonework | ✅ | ✅ | ✅ | | |
 | Tire and Wheel Services | ✅ | ✅ | ✅ | | |
 | Traditional Medicine Practice | ✅ | ✅ | | | |
-| Welding and Fabrication Levels | ✅ | ✅ | ✅ | | |
+| Welding and Fabrication | | ✅ | ✅ | | |
+| Welding and Fabrication Fitter | | ✅ | ✅ | | |
+| Welding and Fabrication Levels | ✅ | | | | |
+| Welding Inspector Basics | | | ✅ | | |
+| Welding Non Destructive Testing | | | ✅ | | |
 
 ### 2. Run the extraction scripts
 
@@ -147,6 +154,7 @@ The validator checks for:
 - **Numbering gaps** — missing LOs or PCs in a sequence.
 - **Duplicates** — repeated unit codes, LO numbers, or PC codes.
 - **Empty descriptions** — trade names, unit titles, LOs, or PCs that may have been missed.
+- **Empty performance criteria** — a learning outcome with a `performance_criteria` array that contains no entries.
 
 Fix any errors before moving on. Warnings (empty descriptions, OCR suspicion) are acceptable if verified manually against the source PDF.
 
@@ -165,7 +173,7 @@ A quick way to count PCs in your output:
 ```bash
 python -c "
 import json
-with open('extracted_json/level-2/NOS-NSQ New Trade Levels 2.json') as f:
+with open('extracted_json/level-4/NOS ICT Network Support Specialist.json') as f:
     data = json.load(f)
 for u in data['units']:
     pcs = sum(len(lo['performance_criteria']) for lo in u['learning_outcomes'])
@@ -191,7 +199,7 @@ If you are comfortable with Python regex and `pdfplumber`, please include the fi
 
 ### 6. Clean up and PR
 
-- Remove the source PDF from `worker/` — only the extracted JSON and text files should be committed.
+- Remove the source PDF from `worker/` — only the extracted JSON files should be committed.
 - Delete any stale files in `worker/extracted_json/` left over from earlier runs.
 
 ```bash
@@ -222,7 +230,7 @@ EOF
 - **CLI flags**:
   - `--dir` — Directory containing the PDFs (default: `./worker`).
   - `--trade` — Override the auto‑detected trade name.
-- **Level detection** — Units are split by the `/L1`, `/L2`, `/L3` suffix in their reference codes. A multi‑level PDF produces a separate JSON file for each level.
+- **Level detection** — Units are split by the `/L1` through `/L5` suffix in their reference codes. A multi‑level PDF produces a separate JSON file for each level.
 
 ---
 
@@ -268,7 +276,6 @@ The JSON follows this hierarchy:
 
   If you can clearly trace the error by comparing the JSON to the PDF, go ahead and fix it. For anything larger — missing units, whole sections absent, wrong LO/PC assignments — fix the extraction script instead and re‑run. Always note manual edits in your PR description.
 - **Check empty descriptions**. Some PDF layouts put LO descriptions on separate lines or interleaved with PC text. A few empty LO descriptions are acceptable when the PDF layout makes clean extraction impossible — PCs are what really matter.
-- **Do not skip the text output**. The `.txt` files are useful for debugging extraction issues — compare them against the JSON to find gaps.
 - **One trade per PDF**. Most NOS PDFs contain a single trade. If your PDF covers multiple trades, split it or note it in your PR.
 
 ---
