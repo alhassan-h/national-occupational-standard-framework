@@ -1,0 +1,1592 @@
+{
+  "trade_name": "NOS Food and Beverage Service",
+  "level": 1,
+  "units": [
+    {
+      "code": "HTT/FBS/001/L1",
+      "title": "OCCUPATIONAL HEALTH AND SAFETY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Maintain Personal Health and Hygiene",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Wear Clean, Smart and appropriate Clothing"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Keep hair neat and tidy and in line with your organization\u2019s standard"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Use jewellery, perfume and cosmetics allowed by organization"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Get any cuts, grazes, burns treated by the appropriate person"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Report illnesses and any infections promptly to the appropriate person"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Awareness of Health, safety and Environmental Security",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "State your responsibilities under the health and Safety Act"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "State the general rules of hygiene that you should follow"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "State Clothing, footwear and headgear that should be worn at all times"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "State the importance of maintaining good personal hygiene"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Ability to control and report hazards in one\u2019s Workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify some hazards or potential hazards in your work Environment and act appropriately"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Report any accidents or near accidents quickly to the right person"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Follow health, hygiene and safety procedures while working"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Practice emergency procedures correctly"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Follow Security Procedures of the Organization"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Observe Government regulations on health and safety in your Industry (OHS 2012)"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Comply with Health and Safety Regulations",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "State the importance of working in a healthy, safe and hygienic way"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "State where you can obtain information about Health and safety in your work place"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "State hazards that you can deal with personally and hazards that must be reported to someone else"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Describe how to alert other people about hazards"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Explaint the importance or alerting people about hazards in a work environment"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Explain why accidents and near accidents should be reported."
+            },
+            {
+              "pc_code": "4.7",
+              "description": "State the hirachy of reproting hazards in a workplace"
+            },
+            {
+              "pc_code": "4.8",
+              "description": "Describe the type of emergencies that may happen in the Workplace and how to handle them"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know First Aid and it\u2019s Application in the Workplace.",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Identify first aid equipment."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "State the uses of some First Aid equipment"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Demonstrate how to apply First Aid"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Fire Hazards in the Workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "State the possible causes of fire in the workplace"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Describe how to minimise the risk of fire"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "State where to find fire alarms and how to set them off"
+            },
+            {
+              "pc_code": "6.4",
+              "description": "State why a fire should never be approached unless it is safe to do so"
+            },
+            {
+              "pc_code": "6.5",
+              "description": "State the importance of following fire safety laws"
+            }
+          ]
+        },
+        {
+          "lo_num": "7",
+          "description": "Organisational Security",
+          "performance_criteria": [
+            {
+              "pc_code": "7.1",
+              "description": "Describe organisational security"
+            },
+            {
+              "pc_code": "7.2",
+              "description": "State procedure in reporting emergencies to the security"
+            },
+            {
+              "pc_code": "7.3",
+              "description": "State the importance of security in an organisation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/FBS/002/L1",
+      "title": "TEAM WORK AT HOSPITALITY WORKPLACE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Plan and Organise own work",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain what is required of owns work"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Adhere to instructions accurately"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Plan and organize one\u2019s tasks in order of importance"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Place everything needed for work within reach"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Keep work areas clean and tidy"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Keep waste to a minimum"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Seek assistance if in need and from the relevant person"
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Provide work output in due time as agreed"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Work effectively with Members of own team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Assist team members when they ask"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Ensure that any assistance given is within limits of own responsibilities"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Manage time well in spite of assisting others"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Ensure information transmitted to others in the team is timely"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Maintain cordial working relations with team mates"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Report any misunderstandings or incidences in relating with team mates to the relevant person"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Communicate clearly and effectively with team members"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Develop own skills",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Seek feedback on your work and be able to use the feedback constructively"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify with appropriate persons for comments on the aspects of your work that are up to standard and aspects that need improvement"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Agree on what you have to do to improve your work"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Agree on a learning Plan with the appropriate person"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Seek opportunities to review and develop your learning plan"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Knowledge of Work Management",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "State why it is important to understand what is required of you at work"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain how you can organize your work to avoid distractions and use time effectively"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "State the benefits of being organized and having work tools close at work before starting jobs"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Explain why it is important to clean up your work area while working"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Explain why it is important to minimize waste"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Explain in which cases you need to ask for help and who is the appropriate person(s) to ask"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Importance of Team work",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "State the importance of working effectively with others in a team"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "List the persons who are part of your team and their roles"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "State what is required of your team in the Whole Organization and why"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Explain how you can work cordially and avoid conflicts with others"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Explain why conflicts of work with another person should be reported to an authority"
+            },
+            {
+              "pc_code": "5.6",
+              "description": "Explain in what cases you can assist others and when you cannot so as to complete own work in time"
+            },
+            {
+              "pc_code": "5.7",
+              "description": "Explain why important information should be communicated to others in your team in good time"
+            },
+            {
+              "pc_code": "5.8",
+              "description": "Explain how to communicate effectively and why"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Importance of own Skills development",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Explain why it is important to develop your own skills"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Explain ways of getting feedback from own teammates and how to use it positively"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Explain the importance of a learning plan for your work"
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Explain why your learning plan should be improved frequently"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/FBS/003/L1",
+      "title": "COMMUNICATION AT WORK ENVIRONMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Use a Non-complex Communication System in a Work Environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Use simple verbal means to pass on necessary information"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use non-verbal means to pass on necessary information"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Interpret symbols and signs appropriately"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Develop the ability to identify the source of information in a Work Environment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify source of information in an Organization or Work Environment"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Respond appropriately to the information"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use the various information flow systems in a work environment"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use information to avoid challenges in a Work situation"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Report challenges in accordance with procedures"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Demonstrate the various use of means of communication in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Locate the various communication equipment in the Work environment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use effectively the various communication equipment in a work environment"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Pass information effectively to the right personnel"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Pass information effectively using symbols, signs and codes"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Follow instructions in line with ethics of the work environment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/FBS/004/L1",
+      "title": "CLEANING, MAINTENANCE AND STORAGE OF CUTLERY AND CROCKERY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "How to Clean Cutlery and Crockery",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Organize Cutlery and Crockery for cleaning"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Select cultery and crockery ready for cleaning"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Apply appropriate cleaning agents to clean crockery and cutlery"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Clean cutlery and crockery using the appropriate cleaning methods as recommended by the manufacturers"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Explain why it is necessary to clean cutlery and crockery after use."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Leave cleaning space, equipment or machinery clean, and ready for future use"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "How to Maintain Cutlery and Crockery",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify faulty cutlery and crockery for maintenance"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify tools to be used for maintenance of faulty cutlery and crockery"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Maintain faulty cutlery and crockery."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Explain the importance of keeping all cutlery and crockery ready for service"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "How to Store Cutlery and Crockery",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Collect and clean maintained cutlery and crockery and store them appropriately."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify the correct storage locations for crockery and cutlery"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Keep storage areas clean and tidy"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Stack crockery carefully and store them in the correct location ready for use"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Polish cutlery, and store them in their correct location ready for use"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Explain why it is necessary to store cutlery and crockery."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Sort out all damages and shortfalls"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Report damages to the appropriate authority"
+            },
+            {
+              "pc_code": "3.9",
+              "description": "Dispose of damaged or broken crockery following recommended procedures"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/FBS/005/L1",
+      "title": "BASIC PREPARATION OF FOOD AND BEVERAGE SERVICE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Identify Utensils and Equipment used in Food and Beverage Service.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify utensils used in food and beverage service"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify equipment used in food and beverage service"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "State the uses of each item in 1.1 above"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "State the uses of each item in 1.2 above"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Clean utensils and equipment Manualy.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Wear appropriate protective clothing"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Select utensils and equipment to be cleaned"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Clean utensils and equipment to be used"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Polish washed items"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Clean utensils and equipment using Dish Washer",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Select utensils and equipment to be cleaned"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use appropriate cleaning agents"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Assist in arranging equipment in different racks in the Dish Washer"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Assist in the operation of the washing machine"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Polish washed items"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Assist in effective Transfer of utensils and equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Arrange equipment on the trolley in the appropriate order"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Distribute items to their various service points"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Assist in the arrangement of utensils and equipment in the appropriate positions in the service area"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Explain why it is important to take safety precautions when lifting and handling utensils and equipment"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Describe the correct way to push a heavily loaded trolley"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Assist in the Lay up of tables and trays in line with service style"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/FBS/006/L1",
+      "title": "COUNTER AND TAKEAWAY SERVICE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand counter customer service",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe how to serve counter service customer"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "State the importance of using separate serving equipment for each food item"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the reason behind portion control when serving customers"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "State why food and drink items must be served at the correct temperature"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Explain why information given to customers must be accurate"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Outline the types of unexpected situations that may occur when serving customers on the counter"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "List the types of unexpected situations that may occur when clearing after service"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Serve customers at the counter",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Attend to customers promptly"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Assist to provide required information to customers including waiting time if demanded"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Assist to take order"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Assist in serving the food ordered."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Maintain counter and service areas",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Assist in Keeping work area tidy, hygienic and free from rubbish and food debris during service"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Assist in Checking that service items are enough and ready for use"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Assist in replenishing food and drink items when necessary"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Assist in arranging food and drink items in an orderly manner"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Assist in maintaining a tidy work area free from irrelevant service items"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Dispose of refuse as often as required"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand how to maintain counter and service areas",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Describe safe and hygienic working practices for preparing customer service areas for table/tray service"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "State why all items should be checked before service"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "State why menus and promotional items should be checked before use"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Outline the types of unexpected situations that may occur when preparing and clearing areas and equipment and how to deal with them"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Handle and package takeaway meals",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Wear appropriate clothing suitable for packaging"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Select appropriate packs for each takeaway item according to requirements"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Control packaging speed and accuracy to maintain the required temperature of food."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Inform customers about any waiting time"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Handle any complaints and issues from customers according to organizational procedures"
+            },
+            {
+              "pc_code": "5.6",
+              "description": "List various types of food that are suitable for each packaging material."
+            },
+            {
+              "pc_code": "5.7",
+              "description": "State why it is important to control speed and accuracy when packing food for take away"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/FBS/007/L1",
+      "title": "TABLE AND TRAY SERVICE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Assist in Welcoming customer and take orders",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Greet customer politely in line with organizational standard"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Ensure that customers have access to the correct menus"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Assist customers with dining arrangements as necessary, in line with the service style"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Assist in resolving customers enquiries, give them information which meets their needs and promotes the organisation\u2019s products and services"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Assist to record customers\u2019 orders promptly"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Follow the procedure of processing customer order",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "State the correct procedures for processing customer order"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain the menu to the customer if required and waiting time if demanded"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Confirm the order and process accordingly"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Assist in Serving customer orders",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Assist in serving customers in line with service style"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Assist in providing customers with the service items, condiments and accompaniments appropriate to their food"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Assist in serving food and drink with appropriate clean, hygienic and undamaged equipment"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Assist in keeping customer dining and service area tidy and hygienic."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Dispose of soiled and unused service items promptly"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Assist in Maintaining sufficient stock of clean service items, condiments and accompaniments during service"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/FBS/008/L1",
+      "title": "PREPARE AND CLEAR AREAS FOR TABLE AND TRAY SERVICE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand how to prepare work areas prior to service",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe safe and hygienic working practices for preparing service areas and equipment for table/tray service"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "State organisation`s service style"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain why waste must be handled and disposed of correctly"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain why condiments and accompaniments should be prepared ready for service"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Assist to prepare service areas and equipment for table/tray service"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Explain why a constant stock of food service items should be maintained"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "List the types of unexpected situations that may occur when preparing and clearing areas for service"
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Explain how to deal with unexpected situations in 1.7"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Assist in Preparing work areas prior to service time",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Ensure the service areas are hygienic, clean and ready for use."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Assist in prepping the service equipment are clean, functional and located where it should be and ready for use"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Assist in checking that sufficient stock of service items are available"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Assist in Preparation of condiments and accompaniments for service"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Assist in checking that refuse and waste food containers are empty, hygenic and ready for use"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Assist in Preparing customer dining areas for table/tray service",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Ensure the dining areas are hygienic, clean and ready for use in line with service style"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Assist in Checking that service items are clean and ready for customer use"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Assist in the Lay up of tables and trays in line with service style"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Assist in Ensuring that menus and promotional items are ready for customer use"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand the task of preparing customer dining areas for table/tray service",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Describe safe and hygienic working practices for preparing customer service areas for table/tray service"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain why all items should be checked before service"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "State why menus and promotional items should be checked before use"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Clearing dining and service areas after service",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Assist in Collecting all the service items for cleaning or storage in batches"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Assist in Preparing used or soiled linen for laundry or dispose of it following recommended procedures"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Assist in Storing food items, condiments and accompaniments for future use as required"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Assist in Disposing of rubbish and waste food following recommended procedures"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Assist in Ensuring that dining furniture is clean and ready for future use"
+            },
+            {
+              "pc_code": "5.6",
+              "description": "Leave dining and service areas tidy and ready for cleaning"
+            },
+            {
+              "pc_code": "5.7",
+              "description": "State why it is important to collect like items together in batches"
+            },
+            {
+              "pc_code": "5.8",
+              "description": "State why it is important to report damages to the appropriate authority"
+            },
+            {
+              "pc_code": "5.9",
+              "description": "Explain the importance of preparing the dining and service areas ahead of time."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/FBS/009/L1",
+      "title": "PREPARATION AND CLEARANCE OF AREAS FOR BEVERAGE SERVICE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Assist in Preparation of a beverage service areas",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Assist in checking that there is sufficient stock of drinks for service"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Assist in Preparing the drink accompaniments, ready for service"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Assist in checking that the electrical equipment are functional"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Ensure that service areas are secure from unauthorised access"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Assist in ensuring that menus are up to date and available"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Assist in ensuring a clean and tidy service area"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Assist in Preparing customer and service areas",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "State the importance of safe and hygienic working practices for preparing customer and service areas"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain the importance of reporting breakages"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain the need to follow correct storage and rotation procedures"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Explain why service areas must be secured from unauthorised access at all times"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Explain why constant stock of drinks and accompaniments must be maintained"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand how to clean and store ceramic and glassware",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Assist in Emptying ceramic and glassware, check for stains and arranging them for washing"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Assist in ensuring that cleaning equipment are clean, free from damage"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Assist in Cleaning ceramic and glassware at the recommended temperature using an appropriate cleaning method"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Assist in Disposing of damaged or broken ceramic and glassware following organizational procedure"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Ensure cleaning equipment are clean, dry and ready for future use"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Maintain a tidy work area free from rubbish"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/FBS/010/L1",
+      "title": "BASIC OPERATIONS OF A DISPENSER",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the process of cleaning a dispenser",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe safe and hygienic practices to follow when cleaning a merchandising dispenser"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain why it is important to check that electricity supply is safely isolated if applicable to the machine"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "State why it is important to wear appropriate protective clothing"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "State the appropriate measures for the cleaning agents"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "State why it is important that the interior and exterior of the machine is left clean, dry and free from smears"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "State the importance of keeping the area around the dispenser clean and tidy"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Explain why work routines and sequences should be followed"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Assist in Cleaning a merchandising dispenser",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Wear protective clothing."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Isolate the electricity supply in line with the manufacturers\u2019 instructions"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Select cleaning equipment and materials that are appropriate to the task"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Prepare cleaning equipment and materials ready for use"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Assist in Cleaning the machine within the specified cleaning schedule"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Ensure interior and exterior of the machine is clean, dry and smear free"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Assist in the testing of the dispenser for normal operation"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Ensure the work area is clean and tidy"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand how to fill a dispenser",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe safe and hygienic working practices when filling a dispenser"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Describe what procedures need to be followed if faults or problems are identified"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain why it is important that the interior of the machine is clean prior to re-stocking"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "State why it is necessary to carry out temperature tests"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "State what documentation needs to be accurately completed"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Explain why stock rotation procedures need to be followed"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Assist in the Filling of a dispenser",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Wear appropriate clothing"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Assist in Isolating the electricity supply in accordance with the manufacturers\u2019 instruction"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Assist in Pouring the beverage to be dispensed in a safe and hygienic way."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Assist in the Supply of stock to meet demand, and position it correctly in the machine"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Ensure that stock rotation procedures are followed"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Assist in Testing dispenser for normal operation"
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Assist in Completing all necessary records"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/FBS/011/L1",
+      "title": "TROLLEY SERVICE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Assist in preparing a service trolley",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Assist in Ensuring that the trolley and other equipment are clean, functional and ready for use"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Check that there is sufficient stock of drinks and accompaniments ready for service."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Assist in Placing food and service items on the trolley in line with professional standards."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Assist in Ensuring that waste and service containers are clean and ready for use"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Assist to ensure that the service trolley is clean and tidy before service"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand how to prepare service trolleys",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain safe and hygienic working practices in preparing service trolleys"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "State the importance of safe and hygienic working practices in preparing service trolleys"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "State cleaning specifications for the trolley and related areas"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Explain why waste must be handled carefully and disposed of immediately and correctly"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Explain why service trolleys must be neatly and orderly arranged."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Explain why constant stock of food and drink must be maintained"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "State why breakages must be reported immediately following the required procedures"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand how to serve food from a service trolley",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Assist in Receiving and attending to customers promptly"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Assist in providing accurate information to meet customer needs"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Assist in serving customers with clean and appropriate service equipment"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Assist in maintaining a clean, safe and orderly trolley surface during service"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Assist in Keeping accurate record of sales"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "List the types of unexpected incidents that may occur during trolley service"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "How to resolve unexpected incidents in 3.6"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand how to serve products from a service trolley",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain how to operate a service trolley"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "List available products and their prices"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "State how to calculate and record sales after service"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "list types of unexpected incidents that can occur during a trolley service"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Explain industry standards for customer care when rendering a trolley service"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/FBS/012/L1",
+      "title": "PREPARATION AND SERVICE OF BEVERAGE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand how to mix and serve beverage and accompaniments",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain safe and hygienic working practices in preparing and serving drinks and accompaniments"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe correct storage and rotation procedures that must be followed for food and drink"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain why waste must be handled carefully and disposed of immediately and correctly"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "State why breakages must be reported immediately following the required procedures"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Assist to Mix and serve drinks and accompaniments",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Assist in the warm welcoming of customers"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Present the list of drinks to the customer"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Take order of customer"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Serve drinks in the required service style, temperature and measure"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand how to maintain customer service area during drink service",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe safe and hygienic working practices in maintaining customer service area"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "State why service area should always be in a clean and hygienic condition"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain why service area should always be kept secure from trespassers"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "list types of unexpected incidents that can occur when maintaining a service area"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "State why drinks and accompaniments must always be available in the service area"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Assist to keep service area tidy during service",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Assist in Keeping drinks and accompaniments in the correct temperature, ready for use"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Assist in the maintaining a clean and tidy service area and equipment"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Assist in Disposal of waste containers and empty bottles as necessary"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Report unexpected incidences to the appropriate authority."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/FBS/013/L1",
+      "title": "PREPARATION AND SERVICE OF COCKTAILS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Assist in preparation for Cocktail service",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Assist in Cleaning and organizing work areas before service time"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Assist in carrying out mise-en-place for accompaniments, garnishes and mixed liquids"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Assist in arranging glasses and plates for ease of service"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Assist in getting documents ready for use"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Assist in getting correct measure of ingredients."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Assist in ensuring that service equipment are clean and functional."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Assist in serving customers on request",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Assist in welcoming customers and take orders"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Assist in processing orders promptly and be ready to communicate with guest whenever needed"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Assist in promoting sales as well as the organisation through passing appropriate information."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "State the requirements and guidelines for serving alcoholic drinks"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Describe safe and hygienic working practices when serving cocktails"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Assist in handling unexpected situations effectively"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand the guidelines on serving alcoholic drinks Unit No Reference Number NOS Title Unit 001 HTT/FBS/001/L2 Occupational health and safety Unit 002 HTT/FBS/002/L2 Team Work at Hospitality Workplace Unit 003 HTT/FBS/003/L2 Communication at Work Environment Unit 004 HTT/FBS/004/L2 Prepare Beverages Service Unit 005 HTT/FBS/005/L2 Prepare Silver Service Unit 006 HTT/FBS/006/L2 Prepare Buffet and Carver Service Unit 007 HTT/FBS/007/L2 Prepare and Serve Cocktails Unit 008 HTT/FBS/008/L2 Serve Bottled Alcoholic and Non-Alcoholic Beverages Unit 009 HTT/FBS/009/L2 Provide Counter and Takeaway Service Unit 010 HTT/FBS/010/L2 Prepare Table and Tray Service Unit 011 HTT/FBS/011/L2 Prepare Dining Room Operation Unit 012 HTT/FBS/012/L2 Prepare Banquet/Catering Function Unit 013 HTT/FBS/013/L2 Serve in a Dining /Restaurant Area Total",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Discuss how best to handle violent cases of alcoholic intoxication"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the importance of informing customers accurately about the alcoholic content of drinks"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "State the circumstances under which customers must not be served alcohol"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain why breakages and damages should be reported and to whom. Credit Value Guided Remark Learning Hours 2 20 1 10 3 30 24 240"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

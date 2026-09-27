@@ -75,6 +75,7 @@ These NOS have already been converted to JSON. Pick a trade **not** listed here 
 | Fashion and Garment Making | ✅ | ✅ | ✅ | | |
 | Fish Farming Activity (Aquaculture) | ✅ | ✅ | ✅ | | |
 | Floor Covering Installation | ✅ | ✅ | ✅ | | |
+| Food and Beverage Service | ✅ | ✅ | ✅ | | |
 | Furniture Making and Upholstery | ✅ | ✅ | ✅ | | |
 | ICT Back-End Web Development | | | ✅ | | |
 | ICT Cinematography | | | ✅ | | |
