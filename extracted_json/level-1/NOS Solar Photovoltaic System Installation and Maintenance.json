@@ -80,7 +80,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Know the safety precautions to be considered in Solar Photovoltaic Systems installation and maintenance. OBJECTIVE (LO)",
+          "description": "Know the safety precautions to be considered in Solar Photovoltaic Systems installation and maintenance.",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -382,7 +382,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand the basic terminologies used in Solar PV Systems OBJECTIVE (LO)",
+          "description": "Understand the basic terminologies used in Solar PV Systems",
           "performance_criteria": [
             {
               "pc_code": "3.1",

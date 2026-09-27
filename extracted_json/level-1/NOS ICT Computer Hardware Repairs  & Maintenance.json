@@ -570,7 +570,7 @@
         },
         {
           "lo_num": "5",
-          "description": "Install Personal Computer (PC) Drivers Reference",
+          "description": "Install Personal Computer (PC) Drivers",
           "performance_criteria": [
             {
               "pc_code": "5.1",

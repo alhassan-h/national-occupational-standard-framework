@@ -100,7 +100,7 @@
         },
         {
           "lo_num": "5",
-          "description": "Know Safe Work Habits and Clean Work Environment in Rice Processing OUTCOME(LO)",
+          "description": "Know Safe Work Habits and Clean Work Environment in Rice Processing",
           "performance_criteria": [
             {
               "pc_code": "5.1",
@@ -112,7 +112,7 @@
             },
             {
               "pc_code": "5.3",
-              "description": "Use tools and equipment safely in accordance with the supervisor’s instructions"
+              "description": "Use tools and equipment safely in accordance with the supervisor\u2019s instructions"
             },
             {
               "pc_code": "5.4",
@@ -750,7 +750,7 @@
             },
             {
               "pc_code": "3.4",
-              "description": "Define the following in packaging of processed rice production:  Production date  Best before  Batch number"
+              "description": "Define the following in packaging of processed rice production: \uf0b7 Production date \uf0b7 Best before \uf0b7 Batch number"
             }
           ]
         },

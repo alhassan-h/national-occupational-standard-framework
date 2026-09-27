@@ -78,7 +78,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Prevent hazards and maintain safe and secure workplace Objective (LO)",
+          "description": "Prevent hazards and maintain safe and secure workplace",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -282,7 +282,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Compliance with policy of organisation (PC)",
+          "description": "Compliance with policy of organisation",
           "performance_criteria": [
             {
               "pc_code": "3.1",
