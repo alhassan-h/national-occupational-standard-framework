@@ -93,6 +93,7 @@ These NOS have already been converted to JSON. Pick a trade **not** listed here 
 | ICT Mobile App Development | | | | | ✅ |
 | ICT Network Support Specialist | | | | ✅ | |
 | ICT Programming with PHP using Laravel and MySql | | | | | ✅ |
+| ICT Robotics | | | ✅ | | |
 | ICT Social Media Contents Creation and Management | ✅ | ✅ | ✅ | | |
 | ICT Web Development | | ✅ | ✅ | ✅ | |
 | Leather Works | ✅ | ✅ | ✅ | | |
