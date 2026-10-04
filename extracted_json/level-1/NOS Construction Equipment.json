@@ -1,0 +1,524 @@
+{
+  "trade_name": "NOS Construction Equipment",
+  "level": 1,
+  "units": [
+    {
+      "code": "CONST/CEO/001/L1",
+      "title": "Occupational Health and Safety for Operator Helper",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Safety Precaution in Workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "List Personal Protective Equipment and wears \u2022 Nose mask \u2022 Ear muff \u2022 Overall \u2022 Hand-gloves \u2022 Safety boot \u2022 Eye goggles \u2022 Reflective jackets \u2022 Helmet"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain relevant safety precautions at: \u2022 Construction site \u2022 Yard"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "State company policy for health and safety"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify safety signs and symbols."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Occupational Hazards in workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain potential hazards at: \u2022 Site \u2022 workplace"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "State causes of hazards in construction site"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain how to report hazards to the site supervisor"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Explain how to prevent hazards in a workplace"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Accident in workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain common types of accident in workplace"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "List causes of accident in the workplace"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "List basic items in the First Aid Box: \u2022 Cotton Wool \u2022 Scissors \u2022 Iodine \u2022 Bandage \u2022 Paracetamol \u2022 Plaster, etc."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain basic First Aid procedures in the event of an accident"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Describe how to administer First Aid"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Demonstrate Safe work practices",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Wear PPE as per organizational procedures."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Carry out Operator Helper /banksman\u2019s role in line with safe work practices."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Comply with safety procedures when assisting operator."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONST/CEO/002/L1",
+      "title": "Communication Skills for Operator Helper",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Communication in workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain communication in workplace: \u2022 peer to peer \u2022 Operator to Operator Helper \u2022 Operator Helper to operator \u2022 Operator Helper to other team members"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "State the importance of communication in a work environment."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify sources of information in workplace"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand methods of Communication in workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the forms of communication \u2022 Verbal (spoken) \u2022 Non-verbal (written) \u2022 Signs \u2022 Signals \u2022 Symbols"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain channels of communication in Workplace"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "State the means of communication \u2022 Phone \u2022 Radio \u2022 Alarm, etc."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand elements of Communication in workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain how to receive written information"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain how to follow verbal information"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Describe how to use communication device to pass information"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Communicate to Operator",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Use basic signs to communicate with operator."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Use Radio to communicate with operator."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Use phone to communicate with operator"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Pass information to operator."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONST/CEO/003/L1",
+      "title": "Team Work for Operator Helper",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Team Work in Workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "State the importance of team work in workplace."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain relationship in workplace: \u2022 Peer to peer \u2022 Subordinate to superior"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify inter-relationships between sections/units in workplace \u2022 Surveyors \u2022 Operators \u2022 Safety Officers, etc."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand how to relate with Superior",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the need for good working relationship with superior"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "list the qualities that promote good working relationship: \u2022 Punctuality \u2022 Regularity \u2022 Honesty \u2022 Diligence \u2022 Loyalty \u2022 Respect \u2022 Effective communication, etc."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "State the qualities of a good Operator Helper: \u2022 Good attitude \u2022 Good observer \u2022 Safety conscious, etc."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand how to relate with peers",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "State the importance of good relationship with your peers"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the need for mutual respect"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "List factors that can affect relationship with peers: \u2022 Impatience \u2022 Dishonesty \u2022 Disrespect \u2022 Lack of respect for diversity, etc."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "State ways to enhance good peer relationship: \u2022 Respect privacy \u2022 Be reliable and honest \u2022 Collaborate with one another \u2022 Avoid gossip, etc."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Positive work relationship with team members",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Relate with team members."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Assist Operator and team members."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Communicate information that may affect other workers on the site."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONST/CEO/004/L1",
+      "title": "Basic Construction Equipment",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Earthmoving equipment in construction.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain Earthmoving operation in construction."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List equipment used for Earthmoving operation: \u2022 Bulldozers \u2022 Excavators \u2022 Scrapers \u2022 Dumpers \u2022 Graders \u2022 Tippers, etc."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify Earthmoving equipment that use attachment: \u2022 Excavators \u2022 Graders \u2022 Bulldozers"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "State the safety precautions required for the use of earth moving equipment."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Recognize any three of the following earthmoving equipment: \u2022 Excavators \u2022 Scrapers \u2022 Dumpers \u2022 Graders \u2022 Tippers \u2022 Bulldozer"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Equipment used for Hoisting operation.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain hoisting operation in construction"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "List types of equipment used for hoisting operation: \u2022 Movable Pulley \u2022 Rope and Pulley \u2022 Chain Hoist \u2022 Mobile Crane \u2022 Electric Winch \u2022 Tower crane \u2022 Derrick Crane \u2022 Overhead Gantry Crane"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain the use of equipment in 2.2 above."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "State safety precautions for the use of hoisting equipment."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Recognize Mobile crane and Tower crane"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Equipment used for compaction, concreting and laying operation.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain compaction operation in construction"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "List types of equipment used in compacting and laying operation: \u2022 Vibrating Roller \u2022 Power Rammer \u2022 Paver, etc."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain the use of equipment in 3.2 above."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "State safety precautions for the use of compacting equipment."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "List construction equipment used in concreting: \u2022 Concrete batching and mixing plant \u2022 Mobile concrete mixer"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Explain the use of equipment in 3.5 above"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Recognize the following: \u2022 Vibrating Roller \u2022 Power Rammer \u2022 Paver \u2022 Mobile Concrete mixer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONST/CEO/005/L1",
+      "title": "Daily Routine Checks",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know daily routine checks on Construction Equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain daily routine Checks"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "State the importance of daily routine checks"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify parts of equipment that require daily routine checks."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain how to carryout daily routine checks of Construction Equipment"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Carryout daily routine checks of Construction Equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Check engine oil level"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Check the radiator water level"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Check transmission oil level"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Check the battery"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Check tyres/tracks"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Check hose for leakage"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Check the diesel level"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Report observations to operator",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "State the importance of reporting faults/problems to the operator"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "List common faults/ problems that can be observed from daily routine checks: \u2022 Low oil level \u2022 Low water level \u2022 Low battery \u2022 Low diesel \u2022 Low tyre pressure \u2022 Worn-out bolts/nuts \u2022 Damaged electrical wires \u2022 Damaged hose, etc."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain the safety precautions observed in carryout daily routine checks"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Report observation verbally to the operator."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CONST/CEO/006/L1",
+      "title": "Support Service (Duties of Operator Helper)",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand support services to the operator for equipment before use",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the activities of support services for equipment before use: \u2022 Daily checks \u2022 Report observations \u2022 Identify materials/tools required for work."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Perform daily routine checks."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Report observation from daily routine checks."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Select materials/tools required for work."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Apply health and safety precautions while carrying out daily routine checks."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand support services to operator for equipment while in use",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Perform ground support to the operator: \u2022 Starting equipment \u2022 Moving equipment \u2022 Positioning equipment \u2022 Operating equipment"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use signs or radio to communicate with operator."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Comply with health and safety precautions while performing ground support to the operator."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand support services to operator for equipment after use",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Perform ground support to the operator while parking equipment after use."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Perform physical observation of equipment."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Report observation to the operator."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Remove debris on wheel/tracks"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Carryout housekeeping for: \u2022 Tools \u2022 Construction Equipment \u2022 Environment \u2022 Self"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Dispose waste in accordance with environmental procedures."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Comply with health and safety precautions while carrying out support services after equipment use."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
