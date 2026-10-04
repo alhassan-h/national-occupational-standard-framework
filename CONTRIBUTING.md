@@ -94,6 +94,7 @@ These NOS have already been converted to JSON. Pick a trade **not** listed here 
 | ICT Network Support Specialist | | | | ✅ | |
 | ICT Programming with PHP using Laravel and MySql | | | | | ✅ |
 | ICT Social Media Contents Creation and Management | ✅ | ✅ | ✅ | | |
+| ICT Video Production and Editing | | | ✅ | | |
 | ICT Web Development | | ✅ | ✅ | ✅ | |
 | Leather Works | ✅ | ✅ | ✅ | | |
 | Masonry | ✅ | ✅ | ✅ | | |
