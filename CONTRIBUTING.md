@@ -105,6 +105,7 @@ These NOS have already been converted to JSON. Pick a trade **not** listed here 
 | Rice Processing | ✅ | ✅ | | | |
 | Root and Tuber Crop Production | ✅ | ✅ | | | |
 | Solar Photovoltaic System Installation and Maintenance | ✅ | ✅ | ✅ | | |
+| Steel Framework | ✅ | ✅ | | | |
 | Tilling and Decorative Stonework | ✅ | ✅ | ✅ | | |
 | Tire and Wheel Services | ✅ | ✅ | ✅ | | |
 | Traditional Medicine Practice | ✅ | ✅ | | | |

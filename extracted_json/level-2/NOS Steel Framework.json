@@ -1,0 +1,692 @@
+{
+  "trade_name": "NOS Steel Framework",
+  "level": 2,
+  "units": [
+    {
+      "code": "CON/SFW/001/L2",
+      "title": "HEALTH, SAFETY AND ENVIRONMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know health and safety rules in work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Familiarize yourself with work environment"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain safe work practice when working with welding equipment."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "List Personal Protective Equipment (PPE)"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify Personal Protective Equipment (PPE)"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "List common hazards in welding operations"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Use Personal Protective Equipment (PPE)"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Explain preventive measures for 1.5 above"
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Explain how to respond to accident in work environment."
+            },
+            {
+              "pc_code": "1.9",
+              "description": "Explain accident report procedure"
+            },
+            {
+              "pc_code": "1.10",
+              "description": "Explain First Aid procedures"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know safety guidelines for welding operations",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain different regulations guiding welding practice (NIS ISO 15012-4)"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify safety signs and codes in the welding workshop"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Observe health and safety signs always."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Work safely to protect self and others"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know fire safety",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain classes of fire"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain causes of fire outbreak in a work environment"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain emergency and fire procedure"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "List methods of extinguishing fire"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "List types of fire extinguishers"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Demonstrate how to use appropriate fire extinguisher."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Follow fire and safety procedure"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know good housekeeping practices",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain good housekeeping procedures before welding operations:  Ensure cleanliness of work environment;  Proper positioning of tools, equipment and consumables;  Ensure gangways are free from obstacles;  Shield your work area;  Proper illumination of the work area;  Proper ventilation of the work area."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain good housekeeping procedures during welding operations:  Ensure work environment is constantly clean;  Ensure welding positioners are securely in place;  Ensure work area is free from hot electrode stubs, work; piece, water, oil/grease, paint.  Proper placement of electrical cables and gas hoses."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain good housekeeping procedures after welding operations:  Assemble all tools, equipment and consumables after operations;  Clean all tools, equipment and work area;  Store tools and equipment appropriately;  Switch off mains"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/SFW/002/L2",
+      "title": "COMMUNICATION SYSTEM IN WORK ENVIRONMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know how to communicate effectively in the work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain communication in work environment."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain methods of communication in work environment."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain verbal communication in work environment"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain non-verbal communication in work environment"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Use verbal and non-verbal means to convey necessary information e.g.:  Body language,  Signs, etc."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Interpret symbols and signs Correctly"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Develop the ability to identify sources of information in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify sources of information in the work environment"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Relate well with sources of information"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use the different information flow systems in a work environment"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use information gathered to address challenges in a work environment"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Report findings correctly as expected in the work environment"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know the use of various communication means in a work environment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Locate the various communication equipment in the work environment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use effectively the various communication equipment in a work environment"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Pass information correctly using symbols, signs and codes."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Obey instructions in line with ethics of the work environment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/SFW/003/L2",
+      "title": "TEAMWORK",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know how to exhibit good working relationship with co-workers",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Work positively with co-workers"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Assist team members when required"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Maintain open communication with co-workers"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Report to the supervisor when request for assistance falls outside area of responsibility."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know how to take responsibility within the team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognize own roles and responsibilities within a team or group."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Perform individual tasks in line with the team rules and regulations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Participate well in group work."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know how to comply with rules of organisation",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain organisational code of Conduct"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use organisational code of practice"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Work in line with organisational standard."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/SFW/004/L2",
+      "title": "FABRICATION DRAWING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know fabrication drawing",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain fabrication drawing"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "List the components of fabrication drawing"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain how to interpret fabrication drawing"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know component drawing.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain component of drawing"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify drawing components and its dimensions from fabrication drawing"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Produce simple component of drawing"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know how to interpret fabrication drawing",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Obtain welding details from fabrication drawing"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Obtain fitting details from fabrication drawing"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Obtain information on materials from fabrication drawing"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Obtain information on reference documents and applicable standards"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/SFW/005/L2",
+      "title": "FABRICATION MATERIALS PREPARATION AND INSPECTION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know fabrication materials",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify correct sections/pieces for processing as per requirement"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Assist in checking the stampings on the sections/pieces to confirm its dimensions"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Assist in confirming that quality inspection has been conducted for required materials"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Assist in checking the materials for any physical damage like distortion, corrosion, bending, cracks, etc."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Assist in ensuring that material sorting and moving is done safely and following standard practices"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know surface preparations of materials",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Assist in checking the surface of the material to identify the types of impurities on it"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Obtain approval for employing different methods of cleaning from concerned supervisor"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify the materials required for cleaning and their quantities"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Assist in checking the application of procedures like heating, chemical cleaning, scrubbing, water, jet, etc. as per requirement"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Assist in checking the markings prior to commencing edge preparation"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know surface protection procedure",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify material for surface protection"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify the right application for surface protection material"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Apply surface protection material in accordance to specification under supervision"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/SFW/006/L2",
+      "title": "FABRICATION OPERATIONS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know joint preparation activities",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the components to be assembled as per drawings or specification"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Assist in selecting suitable jigs and fixtures for smooth execution of work"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Assist in inspecting instruments, consumables, tools and equipment visually for their working conditions"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Assist in inspecting materials before placing on fabrication platform for any distortions or deformities"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Assist in performing calculation of dimensions from drawings if required"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Assist in measuring the sections to identify the locations"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Assist in ensuring that joints for connections of different components of assemblies are complying with the specifications and drawing"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know fitting operations",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Carry out measurement and marking out for a given task"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Carry out cutting operation of materials using appropriate tools for a given task"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Carry out grinding operation using appropriate tools for a given task"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know drilling operations",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe drilling operations"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "List drilling tools and accessories"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Select appropriate drill bits for a given task"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carry out drilling operations"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Assist in checking for defects associated with 3.4 above"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Assist in carrying out corrective measures on identity defects"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know welding operation",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Differentiate between shop welding drawing and blueprint"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "List types of weld and welding symbols"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Use welding symbols for a given task"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Identify standards applicable to welding drawings"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Interpret various components of a welding drawing"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "List drawing terminologies"
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Use welding drawing terminologies for a given task"
+            },
+            {
+              "pc_code": "4.8",
+              "description": "Explain weld joint"
+            },
+            {
+              "pc_code": "4.9",
+              "description": "List types of weld joints"
+            },
+            {
+              "pc_code": "4.10",
+              "description": "Carry out the following weld joints preparation:  Tee joints  Butt joints  Corner joints  Edge joints  Lap joints"
+            },
+            {
+              "pc_code": "4.11",
+              "description": "State the need for joint preparations"
+            },
+            {
+              "pc_code": "4.12",
+              "description": "Differentiate between square and grove edge preparations"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "CON/SFW/007/L2",
+      "title": "ERECT STRUCTURAL FRAME STEEL AT SITE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know preparatory works required to be completed prior to erection",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Check that proper access is available to the erection site"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Assist in checking for survey marks and reference points and"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Carry out necessary measurements to ascertain exact location of erection"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Assist in checking that base plates or other level correction provisions are available at the base of erection as per requirement"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Assist in checking for provisions for bolting, welding and post-tensioning connections as per drawing"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Assist to ensure that designed area of bearing in the platform or support is available for efficient erection of the components"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Check the area of erection for desired accessibility of load lifting equipment"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know how to erect structural steel frame as per the drawing",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Check for hazardous situations at erection site, such as presence of live electric cables, absence of proper barricading, excessive wind speed."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Report hazardous situations at erection site, if any."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Check availability of all materials and support equipment (identified by the supervisor and required to proceed with the work) and report any shortfalls"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Explain factors that determine material selection for any specific task"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Assist in installing shoring and bracing materials as specified"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Pull, push and hold suspended structural steel frame/components approximately to their exact location by hand or suitable means during lowering of the load"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Communicate efficiently to the signalman or operator for precise movements required to place the object at an accurate location"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Place the steel frame/components to their accurate locations efficiently and make required adjustments as per erection requirement"
+            },
+            {
+              "pc_code": "2.9",
+              "description": "Ensure proper alignment of the erected steel frame/component by carrying out required checks using appropriate measuring tools and instruments"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know riveting operations",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain riveting as a joining process"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "List tools and accessories used in riveting operation"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Perform riveting operation"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Assist in Checking for faults in riveting operation"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Assist in Carry out corrective measures on riveting operation"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know bolts and nuts fastening operations",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain bolt and nut as a mechanical fastening method"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "List types of bolts and nuts"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "List types of tools used for bolts and nuts fastening"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Demonstrate the uses of bolts and nuts"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
