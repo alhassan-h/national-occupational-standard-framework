@@ -1154,7 +1154,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Know how to supervise team in the dining area Unit No Reference Number NOS Title Unit 001 HTT/FBS/001/L3 Occupational health and safety Unit 002 HTT/FBS/002/L3 Team Work at Hospitality Workplace Unit 003 HTT/FBS/003/L3 Communication at Work Environment Unit 004 HTT/FBS/004/L3 Maintain safety in storing, preparing and Serving food and beverages Unit 005 HTT/FBS/005/L3 Supervise dining room operation area Unit 006 HTT/FBS/006/L3 Handle Banquet/catering function Unit 007 HTT/FBS/007/L3 Lead Dining Area/ Restaurant Team Unit 008 HTT/FBS/008/L3 Provide silver service Unit 009 HTT/FBS/019/L3 Provide buffet and carver service Unit 010 HTT/FBS/010/L3 Prepare and serve cocktails Unit 011 HTT/FBS/011/L3 Provide Table and Tray Service Total",
+          "description": "Know how to supervise team in the dining",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -1170,7 +1170,7 @@
             },
             {
               "pc_code": "4.4",
-              "description": "Carry out \u201cgueridon service\u201d Credit Value Guided Remark Learning Hours 2 20 1 10 3 30 5 50 7 70 6 60 35 350"
+              "description": "Carry out \u201cgueridon service"
             }
           ]
         }

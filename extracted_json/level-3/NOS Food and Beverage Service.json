@@ -1254,7 +1254,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Serve Customer Orders S/N NAME ORGANISATION 1 ABDULHAMID MOHAMMED SHERIFF INSTITUTE OF TOURISM PROFESSIONALS OF NIGERIA 2 3 HAJARA ABDULKADIR NBTE",
+          "description": "Serve Customer Orders",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -1286,7 +1286,7 @@
             },
             {
               "pc_code": "3.8",
-              "description": "Ensure appropriate equipment are used when serving food and drink items. EMAIL ADDRESS sheriffam1611@gmail.com"
+              "description": "Ensure appropriate equipment are used when serving food and drink items."
             }
           ]
         }
