@@ -70,6 +70,7 @@ These NOS have already been converted to JSON. Pick a trade **not** listed here 
 | Automobile Mechanics | ✅ | ✅ | ✅ | | |
 | Blacksmithing | ✅ | ✅ | ✅ | | |
 | Carpentry and Joinery | ✅ | ✅ | ✅ | | |
+| Construction Equipment | ✅ | | | | |
 | Cosmetology and Beauty Therapy | ✅ | ✅ | ✅ | | |
 | Electrical Installation Maintenance and Repairs | ✅ | ✅ | ✅ | | |
 | Fashion and Garment Making | ✅ | ✅ | ✅ | | |
