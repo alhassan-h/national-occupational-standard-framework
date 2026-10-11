@@ -1,0 +1,1144 @@
+{
+  "trade_name": "NOS ICT Video Production and Editing",
+  "level": 3,
+  "units": [
+    {
+      "code": "ICT/VPE/004/L3",
+      "title": "FUNDAMENTALS OF VIDEO PRODUCTION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Early Experimentation Era (1880s \u2013 1920s) and Television Era (1920s \u2013 1950s)",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe the development process of video production"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the evolution of video production from 1956 \u2013 1980"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the evolution of video production from 1981 \u2013 2000"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain the evolution of video production from 2001 \u2013 date"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Describe the importance of video production in current society"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Film and Video Coexistence (1950s \u2013 1970s)",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the impact and influence of the key stages of photo/cinematography imaging within society"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Describe the career prospects of photo/cinematography"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify the pioneers of photography and cinematography"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand Analog Video (1970 \u2013 1980s) and Digital Revolution (1980s \u2013 1990s)",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain Analog video (Standard Definition)"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain Digital Video"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Differentiate between Analog and Digital video"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Narrate the Digital revolution antecedence"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand Digital Cinema, High Definition and Contemporary Era (1990s \u2013 Present)",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain Digital Cinema"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain High Definition (HD)"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain the Contemporary Era"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Differentiate between High Definition (HD) Camera and Digital Camera"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Identify Camera types: \u2022 Digital Cinema \u2022 High Definition (HD)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/VPE/005/L3",
+      "title": "VIDEO PRODUCTION TOOLS AND EQUIPMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Camera and its gears",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify types of High Definition cameras"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the 3 classes of camera"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "State functions of each class of camera"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Identify camera gears"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Camera Equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify Lenses"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify Tripods and stabilizers"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify Camera rigs and cages"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Identify Matte boxes and Filters"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Demonstrate the use of Lenses, Tripods, Camera rigs and Matte boxes"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Lighting Equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify LED Panel, soft lights, Tungsten lights and halogen lights"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify Fluorescent lights, Neon lights, Strobe lights and flash units"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify Lighting stands, clamps and diffusers"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know Sound Equipments",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify Microphones, Audio recorders and mixers"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Identify Boom poles and windshields,"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Identify Headphones, Communication gears, Portable speakers and monitors"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know Grid Equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Identify Dollies and tracking systems"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Identify Jibs and Cranes"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Identify Steadicam and gimbal stabilizers"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Identify Monopods and sliders"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Identify Clamps, clips, and grip accessories"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Know Electric Equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Differentiate between Generators and other power distribution units"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Identify Cables, wires, Lighting control boards and dimmers"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Differentiate between Battery packs and power solutions"
+            }
+          ]
+        },
+        {
+          "lo_num": "7",
+          "description": "Know Post-Production Equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "7.1",
+              "description": "Identify Video Editing hardware and Software"
+            },
+            {
+              "pc_code": "7.2",
+              "description": "Identify Hard Disk Drives and Storage solutions"
+            },
+            {
+              "pc_code": "7.3",
+              "description": "Identify Monitors and color grading tools"
+            },
+            {
+              "pc_code": "7.4",
+              "description": "Identify editing software, plugins and presets."
+            },
+            {
+              "pc_code": "7.5",
+              "description": "Identify Visual effects and motion graphics software"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/VPE/006/L3",
+      "title": "VIDEO CAMERA OPERATIONS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know how to turn-on the camera and enable Video Recording Mode",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Use camera\u2019s control settings"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe how to enable video recording in camera"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Demonstrate how to set camera into picture and video mode"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Adjust camera Depth of Field and Aperture",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify the difference between depth of field and aperture"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Setup Depth of field"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Adjust the camera aperture"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Describe how to adjust the aperture"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Adjust the Exposure and ISO",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe Exposure in the video camera"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain ISO in the video Camera"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Adjust the Exposure component of your camera"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Adjust the ISO component of your camera"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Setup the camera resolution",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain the camera setup"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Explain camera resolution"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Demonstrate the effects of the camera resolution on the video quality"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Adjust video shoot modes and record a video",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Set the camera to video shoot mode"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Explain what the camera does when in video shoot mode"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Explain different ways to record a video"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Understand Camera Shots",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Explain Long, Extreme Long, Medium and Medium long shot"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Make Long, Extreme Long, Medium and Medium long Shots"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Explain close-up, extreme close-up, over-the-shoulder and point-of-view shots"
+            },
+            {
+              "pc_code": "6.4",
+              "description": "Make close-up, extreme close-up, over-the-shoulder and point-of-view shots"
+            },
+            {
+              "pc_code": "6.5",
+              "description": "Explain Cutaway, Insert, reaction and establishing shots"
+            },
+            {
+              "pc_code": "6.6",
+              "description": "Make Cutaway, Insert, reaction and establishing shots"
+            }
+          ]
+        },
+        {
+          "lo_num": "7",
+          "description": "Know Camera angles",
+          "performance_criteria": [
+            {
+              "pc_code": "7.1",
+              "description": "Explain what placing the camera in different angles does."
+            },
+            {
+              "pc_code": "7.2",
+              "description": "Demonstrate Eye-Level and 2-5 camera angles"
+            },
+            {
+              "pc_code": "7.3",
+              "description": "Demonstrate High Angle and Dutch Angles"
+            }
+          ]
+        },
+        {
+          "lo_num": "8",
+          "description": "Know Camera Movements",
+          "performance_criteria": [
+            {
+              "pc_code": "8.1",
+              "description": "Explain types of camera movements"
+            },
+            {
+              "pc_code": "8.2",
+              "description": "Demonstrate Panning, Tilting, and Track Movements"
+            },
+            {
+              "pc_code": "8.3",
+              "description": "Demonstrate Dolly, Static, and Handheld Movements"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/VPE/007/L3",
+      "title": "EDITING BASICS, TOOLS & INTERFACES",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Video Editing Basics",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe how to import media and organise footages"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe timeline editing process"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain cutting and trimming techniques applied during the editing process"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain transitions and effects"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Describe the audio editing process"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Explain colour correction and grading"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Explain pacing and timing procedures"
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Describe different storytelling techniques"
+            },
+            {
+              "pc_code": "1.9",
+              "description": "Explain Exporting and rendering procedure"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Video editing Tools",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify video editing software"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain the difference between video editing software and photo editing software"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Perform video editing using selected software"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand the Video Editing Interface",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify the editing timeline"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify the media browser"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify the preview window"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Identify the toolbar and menu bar"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Identify the project panel and effect pane"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Identify audio mixer and colour grading tools"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/VPE/008/L3",
+      "title": "EDITING TECHNIQUES AND IMPORTING MEDIA",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Configure import setting",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Adjust Import settings"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Choose the right import file"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Demonstrate how to convert file to a new format (transcode)"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Demonstrate how to create proxy: create a lower-resolution proxy file for editing"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Select the import location"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Organize import media into subfolders based on type, date or other criteria"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Demonstrate how to scale media files to frame size and timeline resolution"
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Demonstrate how to apply colour space by converting media to your project\u2019s working colour."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Basic Video Editing Techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate cutting in editing"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate transition in editing"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Demonstrate pacing in editing"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Illustrate Continuity editing"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Demonstrate J-cut and L-cut"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Demonstrate video Cutaways and inserts"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Demonstrate Colour correction and grading process"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Demonstrate Audio editing process"
+            },
+            {
+              "pc_code": "2.9",
+              "description": "Illustrate Story-telling techniques"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand Advanced video editing techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Demonstrate multi-camera, advanced audio and Virtual reality (VR) video editing"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate advanced colour grading, visual effects integration and 360-degree video editing techniques"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Demonstrate motion graphics & animation, advanced composition and Rotoscoping & masking."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Demonstrate Scripting & automation, advanced keyframe animation, colour matching & consistency and advanced trimming and slip editing"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Demonstrate LUTs & colour management and Illustrate collaborative editing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/VPE/009/L3",
+      "title": "MASTERING THE TIMELINE & WORKFLOW",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Sequence creation and clip / track arrangement",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Setup a new sequence"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Choose sequence settings"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Demonstrate how to organise clips"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Demonstrate Placing and Trimming video clip arrangements"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Illustrate how to insert multiple tracks"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Organize multiple videos and audios on a track"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Timecode and Duration",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain timecode and timecode duration"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain your understanding of a timecode duration"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Demonstrate how to manipulate timecode and timecode duration"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know video playbacks and navigations",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Demonstrate how to navigate the timeline"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate how to apply play back footages"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Illustrate how to use markers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/VPE/010/L3",
+      "title": "TRANSITIONS, ELEMENTS, TITLES & EFFECTS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Transitions in Video Editing",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Illustrate colour grading"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate Blur, sharpen and stylize effects"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Demonstrate Distort, Transform and animate effects"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Demonstrate how to add textures as effects"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Demonstrate how to add noise or gain"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Video and Audio Transitions",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate video clips Transitions"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate audio Transitions"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Demonstrate the relationship between presets and audio / video transition"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand Editing elements",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe using Audio files, video clip and images as elements"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain text-based and graphic elements"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain sequences: Timelines containing multiple elements."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Demonstrate how to apply Main Titles, Opening Credits and headings"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Demonstrate how to apply subtitles and captions to a video clip"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Demonstrate Lower thirds and End Screens"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/VPE/011/L3",
+      "title": "SOUND EDITING IN VIDEO PRODUCTION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Audio tracks, clips mixers and effects",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain Audio track organization"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate how to manage multiple audio tracks"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Demonstrate how to apply sound effects"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Adjust levels, pans and sync audio clips"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Apply effects like reverb, delay, EQ and Compression"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Audio transitions",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate how to use Fade transition"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate how to use Dissolve transition"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Demonstrate how to apply any other transition to smooth audio changes"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Understand Audio ducking and noise reduction",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain background noise in video editing"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate how to lower background music levels when dialogue is present"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Demonstrate how to remove background noise and hum"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know Audio Spectral repair and multiband compression",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Illustrate how to dynamically control audio levels across different frequency ranges"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Identify unwanted audio frequencies"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Demonstrate how to remove unwanted audio frequencies"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know Audio Sync and Exportation",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Demonstrate how to sync audio clips with video"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Demonstrate how to sync audio clips with other audio tracks"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Demonstrate how to choose audio formats while exporting"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Demonstrate how to set codec and other settings for final export"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/VPE/012/L3",
+      "title": "COLOUR CORRECTION AND GRADING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand colour correction",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain colour correction"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe why colour correction is necessary"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the Purpose of Colour Correction"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Colour Correction Techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Use Lumetri colour panel and colour wheels correction techniques while editing"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use Curves and colour grading in editing"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Apply White balance and exposure while editing"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use Contrast, saturation, colour match and LUTs"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know how to Export a video editing project",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Export a video with any of these File formats - (MP4, AVI, MOV or ProRes)"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate Exporting a Resolution and Frame Rate"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain Codec and Bitrate"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Apply Colour Space and Profile"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Demonstrate how to configure Audio Settings"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Demonstrate how to export media using the Queue and Render option"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Export media using Media Encoder"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand various Video Exporting file formats",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Export a media file in .MP4 video file"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Export a media file in .AVI video file"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Export a media file in .MOV video file format"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Export a media file in .Pro file format"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/VPE/013/L3",
+      "title": "DRONE AND VIDEOGRAPHY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the Basics of Drone Technology",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify drone components."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the function of each component."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Compare different types of drones."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe how drones operate."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Assemble a drone"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Drone Regulations and Safety",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain legal requirements for drone use."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain safety protocols for drone operation."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Demonstrate adherence to drone regulations."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Conduct pre-flight safety checks."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Perform emergency procedures."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Implement techniques for shooting in various lighting conditions, such as golden hour and blue hour."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Master Drone Photography Techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Set up drone camera for videography."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Capture clear and well-composed aerial videos."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Use different video settings."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Apply composition techniques."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Manage drone battery during videography sessions."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Develop Post-Processing Skills",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Import drone videos into editing software."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Apply basic editing techniques to videos."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Enhance video quality using advanced editing tools."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Create a cohesive video."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Export edited video in various formats."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know Creative Applications",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Identify creative uses of drone videography."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Plan a creative drone videography project."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Execute a drone videography project."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Create a portfolio of drone videography work."
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Critique drone videography projects."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
