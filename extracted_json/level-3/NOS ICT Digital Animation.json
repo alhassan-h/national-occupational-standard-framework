@@ -1,0 +1,712 @@
+{
+  "trade_name": "NOS ICT Digital Animation",
+  "level": 3,
+  "units": [
+    {
+      "code": "ICT/DAN/001/L3",
+      "title": "Occupational Health and Safety",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Workplace Health and Safety Regulations",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain key OHS legislation and regulations relevant to Digital Animation"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the roles and responsibilities of individuals and organizations in maintaining a safe work environment"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe the process for reporting health and safety risks and incidents."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Identify Workplace Hazards and Implement Control Measures",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify common hazards in Digital Animation work environment: • Electrical • Ergonomic • Data-related risks"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Assess the severity and likelihood of potential hazards in specific Digital Animation tasks."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Implement appropriate control measures, such as safe cabling practices, ergonomic workstation setup, and electrical safety protocols."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Apply Emergency Procedures and First Aid in the Workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Demonstrate the correct procedure for responding to workplace emergencies, such as electrical fires or equipment malfunctions."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Perform basic first aid techniques, including treating minor injuries and using first aid equipment"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Communicate effectively with emergency services and other relevant personnel during a workplace incident."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DAN/002/L3",
+      "title": "Teamwork",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the Roles and Responsibilities within a Team",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the different roles and functions within an Digital Animation team"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe the key responsibilities and contributions of each team member."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Recognize the importance of each role in achieving the team's objectives."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Foster Positive Working Relationships within a Team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate techniques for effective interpersonal communication and conflict resolution in a team environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Show the ability to provide constructive feedback and actively listen to others' contributions"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Promote inclusivity and collaboration among team members to ensure participation and engagement from all."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Contribute to Team Problem-Solving and Decision-Making",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Participate in group discussions to identify and analyse Digital Animation related problems."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Suggest innovative solutions and support team decision-making processes."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Evaluate the effectiveness of team decisions and propose improvements where necessary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DAN/003/L3",
+      "title": "Communication",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Communicate Technical Information Clearly and Accurately",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain Digital Animation concepts, procedures, and solutions in a manner appropriate to the audience, whether technical or non-technical."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use industry-standard terminology correctly when describing technical processes"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Adapt communication methods to suit the context, such as written reports, emails, or verbal presentations."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Utilize Digital Communication Tools Effectively",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Use digital tools for communication, such as email, messaging platforms, and collaboration software (e.g., Slack, Teams)."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Adhere to best practices for professional digital communication, including email etiquette and secure file sharing."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use collaborative tools to share and receive feedback on documents, code, or project updates."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Listen and Respond Appropriately in a Professional Context",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Demonstrate active listening skills during team discussions or client meetings."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Respond to questions, concerns, and feedback clearly and effectively."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Clarify misunderstandings and summarize discussions to ensure mutual understanding."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DAN/004/L3",
+      "title": "PRINCIPLES OF ANIMATION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the principles of animation",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the principles of animation."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Apply squash and stretch in animation."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Apply the principle of timing to create realistic motion."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Create animations that show anticipation and follow-through."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Enhance the clarity of action using staging techniques"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Add depth to animations using secondary actions"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Use arcs to create natural movement paths."
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Ensure solid drawing techniques for consistent character design."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Create animated sequences",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain animated sequences"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Plan an animated sequence."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Implement storyboard"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use keyframes to define major movements in the animation."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Implement in-between frames to smooth out the animation."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Refine the animation."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Polish the animation"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Apply easing techniques to enhance motion realism."
+            },
+            {
+              "pc_code": "2.9",
+              "description": "Manage complex animations using layers"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Apply Animation techniques to different media",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify various media platforms suitable for animation."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the technical requirements and constraints of each media platform."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Implement the technical requirements and constraints of each media platform."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Adapt animation techniques to fit the specific characteristics of different media."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Integrate multimedia elements within animations: • Sound • Interactivity"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Improve animations",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Analyse animations for adherence to principles."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Identify areas of improvement in animations."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Implement feedback to enhance animation quality."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Document the animation process and outcomes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DAN/005/L3",
+      "title": "Storyboarding and Scriptwriting",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the fundamentals of storyboarding",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the key elements of a storyboard"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Create storyboards that convey narrative flow."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Use visual storytelling techniques to enhance the storyboard."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Create storyboards are clear and easy to interpret."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know scriptwriting for animation",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Write scripts that include dialogue, action, and scene descriptions."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Structure scripts to follow a coherent narrative arc."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Incorporate character development and plot progression in scripts."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Integrate storyboarding and scriptwriting",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Use storyboards to visualize script scenes and sequences."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Align storyboards with script elements to ensure consistency."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Adapt scripts based on storyboard feedback and revisions."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Collaborate with team members to refine storyboards and scripts."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Evaluate storyboards and scripts",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify areas for improvement in visual and written elements."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Implement feedback to enhance the quality of storyboards and scripts."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Review storyboards and scripts for coherence and effectiveness."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Document the storyboarding and scriptwriting process."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DAN/006/L3",
+      "title": "2D Animation Techniques",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Basic animation techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Demonstrate keyframing techniques."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Utilize onion skinning for frame-by-frame animation."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Apply motion tweening to create smooth transitions."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Implement easing to enhance motion realism."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Apply techniques for controlling depth of field."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Develop skills in character animation",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Create character rigs for animation."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Animate character movements using inverse kinematics."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Apply principles of weight and balance in character animation."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Synchronize character lip-sync with audio."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Employ layers and timelines for complex animations."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Utilize software tools for animation",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify animation software"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Navigate animation software interfaces"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Integrate special effects and filters in animations."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Refine animations",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify animation errors."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Correct animation errors."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Incorporate feedback to improve animation quality."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Review animations for consistency and quality."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Document the animation process and revisions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DAN/007/L3",
+      "title": "3D Animation Techniques",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Basic animation techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Demonstrate keyframing techniques."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Utilize onion skinning for frame-by-frame animation."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Apply motion tweening to create smooth transitions."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Implement easing to enhance motion realism."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Apply techniques for controlling depth of field."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Develop Skills in character animation",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Create character rigs for animation."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Rig character for animation"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Apply principles of weight and balance in character animation."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Synchronize character lip-sync with audio."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Adjust exposure, contrast, and saturation to enhance visual appeal."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Software tools for animation",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Navigate and use animation software interfaces effectively."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Employ layers and timelines for complex animations."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Integrate special effects and filters in animations."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Export animations in various formats for different platforms."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Refine animations",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify animation errors."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Correct animation errors"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Incorporate feedback to improve animation quality."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Review animations for consistency and quality."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Document the animation process and revisions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DAN/008/L3",
+      "title": "Character Design and Development",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Character design fundamentals",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify key elements of character design."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Create character sketches that demonstrate unique traits."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Develop character turnarounds showing different angles."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Apply color theory to enhance character appeal."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Develop skills in character modeling",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Create 3D character models using software tools"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Sculpt detailed features and textures on character models."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Implement proper topology for character rigging."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Optimize models for animation and rendering."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Animate character movements",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Rig characters for animation using bones and joints."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Create realistic character animations using keyframes."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Apply principles of motion to enhance character believability."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Synchronize character actions with audio cues."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Refine character designs",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify areas for improvement in character models and animations."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Incorporate feedback to enhance character quality."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Review character designs for consistency and appeal."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Document the character design and development process."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
