@@ -1,0 +1,846 @@
+{
+  "trade_name": "NOS ICT Graphic Design",
+  "level": 3,
+  "units": [
+    {
+      "code": "ICT/GDS/001/L3",
+      "title": "Occupational Health and Safety",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Workplace Health and Safety Regulations",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain key OHS legislation and regulations relevant to Graphic Design sector."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the roles and responsibilities of individuals and organizations in maintaining a safe work environment"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe the process for reporting health and safety risks and incidents."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Identify Workplace Hazards and Implement Control Measures",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify common hazards in Graphic Design work environments"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Assess the severity and likelihood of potential hazards in specific IT tasks."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Implement appropriate control measures, such as safe cabling practices, ergonomic workstation setup, and electrical safety protocols."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Apply Emergency Procedures and First Aid in the Workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Demonstrate the correct procedure for responding to workplace emergencies, such as electrical fires or equipment malfunctions."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Perform basic first aid techniques, including treating minor injuries and using first aid equipment"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Communicate effectively with emergency services and other relevant personnel during a workplace incident."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/GDS/002/L3",
+      "title": "Teamwork",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the Roles and Responsibilities within a Team",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the different roles and functions within an Graphic Design team"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe the key responsibilities and contributions of each team member."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Recognize the importance of each role in achieving the team's objectives."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Foster Positive Working Relationships within a Team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate techniques for effective interpersonal communication and conflict resolution in a team environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Show the ability to provide constructive feedback and actively listen to others' contributions"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Promote inclusivity and collaboration among team members to ensure participation and engagement from all."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Contribute to Team Problem-Solving and Decision-Making",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Participate in group discussions to identify and analyse Graphic Design related problems."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Suggest innovative solutions and support team decision-making processes."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Evaluate the effectiveness of team decisions and propose improvements where necessary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/GDS/003/L3",
+      "title": "Communication",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Communicate Technical Information Clearly and Accurately",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain Graphic Design concepts, procedures, and solutions in a manner appropriate to the audience, whether technical or non-technical."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use industry-standard terminology correctly when describing technical processes"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Adapt communication methods to suit the context, such as written reports, emails, or verbal presentations."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Utilize Digital Communication Tools Effectively",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Use digital tools for communication, such as email, messaging platforms, and collaboration software (e.g., Slack, Teams)."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Adhere to best practices for professional digital communication, including email etiquette and secure file sharing."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use collaborative tools to share and receive feedback on documents, code, or project updates."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Listen and Respond Appropriately in a Professional Context",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Demonstrate active listening skills during team discussions or client meetings."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Respond to questions, concerns, and feedback clearly and effectively."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Clarify misunderstandings and summarize discussions to ensure mutual understanding."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/GDS/004/L3",
+      "title": "FUNDAMENTALS OF GRAPHIC DESIGN",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the Fundamental Elements of Graphic Design",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Recognize shapes, lines, color, texture, type, space, and images in various designs."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use these elements effectively in creating a design"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify the usage of these elements in existing designs."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Create multiple design variations using different combinations of these elements"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Principles of Graphic Design",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain balance, contrast, unity, emphasis, movement, and rhythm in designs."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Create balanced and harmonious design."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify designs based its principle"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Develop designs according to the principles"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Develop Skills in Visual Representation",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify image-making techniques."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Create visually appealing designs using the elements of design"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Develop patterns that enhance the designs"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Use contrast to improve the visual impact of designs"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know Typography making",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain the basics of typography: - typefaces - font styles."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Use typography to enhance readability and visual appeal."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Assess the effectiveness of typography in existing designs"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Develop designs that effectively use typography to communicate messages"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/GDS/005/L3",
+      "title": "CONCEPTS AND SKETCHES",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Client Requirements",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Gather client requirements."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify client needs and expectations"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify the client\u2019s objectives and target audience."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Ensure mutual understanding of requirements through feedback sessions."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Generate Initial Concepts",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Develop a range of initial design concepts."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use rough sketches to visualize ideas."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Compare initial sketches with clients for feedback."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Construct concepts based on client feedback and suggestions"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Develop Detailed Sketches",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Develop more refined and detailed sketches from initial concepts"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use principles of design to enhance sketches"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Reflect client and peer feedback into sketches."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Review sketches to improve quality."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Finalize Design Concepts",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Select the most promising sketches for final development."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Develop polished and detailed final sketches"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Present final sketches to the client for approval."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Maintain a record of the design process and decisions made."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/GDS/006/L3",
+      "title": "GRAPHICS FOR PRINT PRODUCTS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Print Production Processes",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify print production methods: - offset, - digital, - screen printing."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe the steps involved in each print production method."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify print method based on the project requirements."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Assess the quality of printed materials."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Create Print - Ready Graphics:",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Develop graphics that are suitable for print production."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use the Colour Mode for accurate colour reproduction: - CMYK, - RGB"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Prepare files with appropriate bleeds and margins."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Verify that images and graphics are at the correct resolution for print."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Prepare Files for Printing",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Save files in the correct formats."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "export files in the correct formats for printing"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Perform preflight checks to ensure files meet print specifications."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Test proofs to Identify errors before final printing."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Collaborate with print service providers to ensure accurate production."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Manage Print Projects",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Develop a production plan that includes timelines and resources."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Manage the budget for print projects"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Implement quality control measures throughout the print production process."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Ensure the final printed product meets client expectations and specifications."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/GDS/007/L3",
+      "title": "GRAPHICS DESIGN WITH PHOTOSHOP",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the Basics of Photoshop",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Demonstrate how to create New Document, Resolution Settings and Preset details"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the main tools and panels in Photoshop"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the purpose of layers and layer masks"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe the process of importing and exporting images"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Explain the history and evolution of Photoshop"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Demonstrate basic photo editing techniques"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Master Photoshop Techniques for Design",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Perform basic photo retouching and color correction"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use selection tools to isolate and edit specific parts of an image"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Apply filters and effects to enhance images"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Create and manipulate layers for complex compositions"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Use adjustment layers for non-destructive editing"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Create Professional Graphic Designs",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Design and create logos, banners, and other graphic elements"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use typography tools to enhance text in designs"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Implement design principles: - balance, - contrast, and - alignment"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Combine multiple images and elements into cohesive designs"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Refine designs for professional quality"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Apply Advanced Photoshop Techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Use advanced masking techniques for intricate edits"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Create and apply custom brushes and patterns"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Work with 3D tools to create and edit 3D objects"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Utilize the pen tool for precise path and shape creation"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Integrate Photoshop with other Adobe Creative Cloud applications"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Demonstrate Professionalism in Design",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Communicate effectively with clients and team members"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Show initiative in learning new techniques and tools"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Maintain punctuality and reliability in project timelines"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Adhere to ethical standards and best practices"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Provide constructive feedback during collaborative projects"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/GDS/008/L3",
+      "title": "GRAPHICS DESIGN WITH COREL DRAW",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the Basics of CorelDRAW",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Demonstrate how to create New Document, Resolution Settings and Preset details"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the main tools and workspaces in CorelDRAW"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the purpose of vector and bitmap graphics"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe the process of importing and exporting files"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Discuss the history and evolution of CorelDRAW"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Demonstrate the basic drawing and editing techniques"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Master CorelDRAW Techniques for Design",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Create and edit vector graphics and illustrations"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use the Bezier tool to create precise paths and shapes"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Apply fills, strokes, and effects to enhance designs"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Work with text tools to add and format text in designs"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Use layers and grouping to organize complex designs"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Create Professional Graphic Designs",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Design and create logos, icons, and other graphic elements"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use typography tools to enhance text in designs"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Implement design principles such as balance, contrast, and alignment"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Combine multiple elements into cohesive designs"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Refine designs for professional quality"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Apply Advanced CorelDRAW Techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Use advanced node editing for intricate vector shapes"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Apply custom brushes and patterns"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Work with transparency and blending modes for complex compositions"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Utilize the Shape tool for precise path and shape creation"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Integrate CorelDRAW with other design software"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Demonstrate Professionalism in Design",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Communicate effectively with clients and team members"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Show initiative in learning new techniques and tools"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Maintain punctuality and reliability in project timelines"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Adhere to ethical standards and best practices"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Provide constructive feedback during collaborative projects"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/GDS/009/L3",
+      "title": "GRAPHICS FOR WEB INTERFACES",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Web Design Principles",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Recognize principles such as usability, accessibility, and responsiveness in web design."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate how these principles contribute to effective web interfaces."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Evaluate existing web interfaces to identify the use of these principles."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Develop simple web designs that incorporate these principles"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Create User-Centred Designs",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Gather user requirements and preferences."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Develop user personas to guide design decisions."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Develop wireframes that reflect user needs and behaviours."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Implement usability testing to refine designs based on user feedback."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Implement Visual Design Elements",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Use visual hierarchy to guide user attention and improve navigation."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use colour theory to create visually appealing and accessible designs."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Choose appropriate fonts and typography for readability and aesthetics."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Use images and graphics effectively to enhance user experience."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Optimize for Performance and Accessibility",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Assess web graphics are optimized for fast loading times."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Develop interfaces that are accessible to users with disabilities."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Use tools to validate HTML, CSS, and other code for compliance with web standards."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Determine designs are responsive and function well on various devices and screen sizes."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

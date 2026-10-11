@@ -92,6 +92,7 @@ These NOS have already been converted to JSON. Pick a trade **not** listed here 
 | ICT Digital Content Creation | | | ✅ | | |
 | ICT Digital Service Operations | | ✅ | ✅ | | |
 | ICT Front-End Web Development | | | ✅ | | |
+| ICT Graphic Design | | | ✅ | | |
 | ICT Mobile App Development | | | | | ✅ |
 | ICT Network Support Specialist | | | | ✅ | |
 | ICT Programming with PHP using Laravel and MySql | | | | | ✅ |
