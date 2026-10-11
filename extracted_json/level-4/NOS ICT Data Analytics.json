@@ -334,7 +334,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Ref. Page No. OBJECTIVE (LO) The learner will: Understand Modules, packages, libraries and other tools",
+          "description": "Understand Modules, packages, libraries and other tools",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -422,7 +422,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Understand the Data wrangling Process Ref. Page No. OBJECTIVE (LO) The learner will:",
+          "description": "Understand the Data wrangling Process",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -490,7 +490,7 @@
         },
         {
           "lo_num": "4",
-          "description": "Understand Feature Engineering Ref. Page No. OBJECTIVE (LO) The learner will:",
+          "description": "Understand Feature Engineering",
           "performance_criteria": [
             {
               "pc_code": "4.1",
@@ -578,7 +578,7 @@
         },
         {
           "lo_num": "2",
-          "description": "Understand visualization libraries in python Ref. Page No. OBJECTIVE (LO) The learner will:",
+          "description": "Understand visualization libraries in python",
           "performance_criteria": [
             {
               "pc_code": "2.1",
@@ -676,7 +676,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand Data analysis with SQL on a single table Ref. Page No. OBJECTIVE (LO) The learner will:",
+          "description": "Understand Data analysis with SQL on a single table",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -784,7 +784,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Prepare data for analysis using functions Ref. Page No. OBJECTIVE (LO) The learner will:",
+          "description": "Prepare data for analysis using functions",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -864,7 +864,7 @@
         },
         {
           "lo_num": "3",
-          "description": "Understand data in business Ref. Page No. OBJECTIVE (LO) The learner will:",
+          "description": "Understand data in business",
           "performance_criteria": [
             {
               "pc_code": "3.1",
@@ -934,7 +934,7 @@
         },
         {
           "lo_num": "6",
-          "description": "Understand the concepts of data modelling in Power BI Ref. Page No. OBJECTIVE (LO) The learner will:",
+          "description": "Understand the concepts of data modelling in Power BI",
           "performance_criteria": [
             {
               "pc_code": "6.1",
@@ -1040,7 +1040,7 @@
         },
         {
           "lo_num": "11",
-          "description": "Ref. Page No. OBJECTIVE (LO) The learner will: Understand patterns, trends and visualization",
+          "description": "Understand patterns, trends and visualization",
           "performance_criteria": [
             {
               "pc_code": "11.1",

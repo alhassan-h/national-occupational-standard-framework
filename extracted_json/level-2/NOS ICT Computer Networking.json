@@ -622,7 +622,7 @@
         },
         {
           "lo_num": "5",
-          "description": "Monitor and Respond to Security Incidents  OBJECTIVE (LO)",
+          "description": "Monitor and Respond to Security Incidents",
           "performance_criteria": [
             {
               "pc_code": "5.1",

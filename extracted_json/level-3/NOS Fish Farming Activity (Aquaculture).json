@@ -952,7 +952,7 @@
         },
         {
           "lo_num": "5",
-          "description": "Preserve harvested fish using sun drying method OUTCOME (LO)",
+          "description": "Preserve harvested fish using sun drying method",
           "performance_criteria": [
             {
               "pc_code": "5.1",
