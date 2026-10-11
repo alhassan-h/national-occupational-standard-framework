@@ -53,19 +53,29 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
     appendix_pattern = re.compile(r"PARTICIPANTS?\s+FOR\b|\bTEAM\s+LIST\b")
 
 
-    # Wrapped fragments of the repeated table header seen so far, across
-    # several different NBTE table layouts. Which *column* these land in
-    # varies per page/table, so they're matched by exact text instead.
-    HEADER_ROW_FRAGMENTS = {
-        "LEARNING", "OBJECTIVE", "(LO)", "OBJECTIVE (LO)", "THE LEARNER",
-        "THE LEARNER WILL:", "THE LEARNER WILL", "WILL:", "WILL",
-        "PERFORMANCE", "CRITERIA", "PERFORMANCE CRITERIA", "(PC)",
-        "THE LEARNER CAN:", "THE LEARNER CAN",
-        "EVIDENCE", "TYPE", "EVIDENCE TYPE",
-        "REF.", "REF", "PAGE", "NO.", "NO", "PAGE NO.", "PAGE NO",
-        "EVIDENCE REF.", "EVIDENCE REF", "REF. PAGE", "REF. PAGE NO.",
-        "EVIDENCE REF. PAGE NO.", "EVIDENCE REF. PAGE",
+    # The repeated LO/PC table header ("LEARNING OBJECTIVE (LO)" / "The
+    # learner will:" / "PERFORMANCE CRITERIA (PC)" / "The learner can:" /
+    # "Evidence Type" / "Evidence Ref. Page No.") reprints on every page a
+    # unit's table spans, and pdfplumber splits it into wrapped fragments
+    # that differ per PDF -- not just which *column* they land in, but the
+    # exact literal text: "(LO)" alone in one document, "OUTCOME(LO)" fused
+    # in another, "(LO)The learner will:" fused with no space in a third.
+    # An exact-string set has to be extended by hand for every new fusion a
+    # PDF happens to render, and silently misses whichever one hasn't been
+    # seen yet (each of those three shipped in a merged PR before its own
+    # variant was caught). Matching by *vocabulary* instead -- a cell counts
+    # as header noise if every one of its words, regardless of spacing or
+    # punctuation, is drawn from this fixed set of header/label words --
+    # catches all of the above (and future re-fusions) in one general rule.
+    HEADER_VOCAB = {
+        "LEARNING", "OBJECTIVE", "OUTCOME", "PERFORMANCE", "CRITERIA",
+        "EVIDENCE", "TYPE", "REF", "PAGE", "NO", "NUMBER",
+        "THE", "LEARNER", "LEARNERS", "WILL", "CAN", "LO", "PC",
     }
+
+    def is_header_fragment_cell(cell):
+        tokens = re.findall(r"[A-Za-z]+", cell)
+        return bool(tokens) and all(t.upper() in HEADER_VOCAB for t in tokens)
 
     data = {
         "trade_name": trade_name,
@@ -406,14 +416,16 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
                         has_marker = any(lo_pattern.search(c) for c in clean_row) or \
                                      any(pc_pattern.search(c) for c in clean_row)
                         # A row still counts as header noise only if every
-                        # non-blank cell is one of the known wrapped header
-                        # fragments -- which column they land in varies by
-                        # table layout, so column position isn't reliable.
-                        # Any other text (an LO name, a PC code, or bare
-                        # continuation text with no marker at all) means real
-                        # content has started.
+                        # non-blank cell is built entirely from the header's
+                        # own vocabulary -- which column they land in, and
+                        # exactly how a given PDF fuses/splits the words,
+                        # varies by table layout, so neither column position
+                        # nor an exact-string match is reliable. Any other
+                        # text (an LO name, a PC code, or bare continuation
+                        # text with no marker at all) means real content has
+                        # started.
                         is_only_header_fragments = all(
-                            (not c) or c.strip().upper() in HEADER_ROW_FRAGMENTS
+                            (not c) or is_header_fragment_cell(c)
                             for c in clean_row
                         )
                         if not has_marker and is_only_header_fragments:

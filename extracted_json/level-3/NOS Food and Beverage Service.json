@@ -1,0 +1,1296 @@
+{
+  "trade_name": "NOS Food and Beverage Service",
+  "level": 3,
+  "units": [
+    {
+      "code": "HTT/FBS/001/L3",
+      "title": "OCCUPATIONAL HEALTH AND SAFETY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Identify Workplace Health and Safety Regulations and Policies",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain key occupational health and safety regulations in the food and beverage service industry."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify workplace safety policies, procedures, and emergency protocols."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe the responsibilities of employers and employees in maintaining a safe work environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Apply Hazard Identification and Risk Assessment Techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify common workplace hazards in food and beverage service settings."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Conduct risk assessments to evaluate potential safety threats."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Recommend appropriate control measures to minimize risks in the workplace."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Implement Workplace Safety Procedures and Emergency Response Plans",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Follow standard operating procedures (SOPs) for maintaining safety in food and beverage operations."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate correct handling and storage of hazardous substances and equipment."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Respond effectively to workplace emergencies such as fire, spills, and accidents."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Promote Personal Hygiene and Safe Work Practices",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Maintain high standards of personal hygiene in compliance with health and safety regulations."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Use personal protective equipment (PPE) correctly when required."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Demonstrate safe manual handling and lifting techniques to prevent workplace injuries."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/FBS/002/L3",
+      "title": "TEAM WORK AT HOSPITALITY WORKPLACE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the Importance of Teamwork in the Hospitality Industry",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the role of teamwork in ensuring efficient food and beverage service."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify key characteristics of an effective hospitality team."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe how teamwork contributes to customer satisfaction and workplace productivity."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Develop Effective Communication Skills for Team Collaboration",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Use appropriate verbal and non-verbal communication techniques in a hospitality setting."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate active listening skills when interacting with team members and supervisors."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Resolve workplace misunderstandings and conflicts through effective communication."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Apply Teamwork Strategies to Improve Service Delivery",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Participate in team meetings and contribute constructive ideas to improve service."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Coordinate tasks effectively with colleagues to maintain smooth operations."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Adapt to different team roles and responsibilities as required by the workplace."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Demonstrate Professionalism and Work Ethics in a Team Environment",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Show respect and cooperation when working with diverse team members."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Follow workplace policies and procedures to maintain a positive work environment."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Take responsibility for assigned tasks and assist team members when needed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/FBS/003/L3",
+      "title": "COMMUNICATION AT WORK ENVIRONMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the Principles of Effective Communication in Hospitality",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the importance of effective communication in food and beverage service operations."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify different forms of communication (verbal, non-verbal, and written) used in the hospitality industry."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Recognize barriers to communication and propose solutions to overcome them."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Apply Professional Communication Skills in a Hospitality Setting",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Use clear and polite verbal communication when interacting with customers and colleagues."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate appropriate body language, tone, and facial expressions to enhance communication."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Interpret and respond to customer requests, complaints, and feedback professionally."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Utilize Workplace Communication Tools and Technology",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Use written communication effectively in reports, emails, and order-taking processes."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Operate communication devices such as telephones, intercoms, and digital ordering systems."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Follow workplace protocols when relaying messages and handling confidential information."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/FBS/004/L3",
+      "title": "MAINTAIN SAFETY IN STORING, PREPARING AND SERVING FOOD AND BEVERAGES",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Maintain Personal Hygiene and Cleanliness",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Wear clean and hygienic clothes suitable for the tasks to be carried out"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Put on appropriate hair covering"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Wear only safe jewellery and other accessories, to avoid food safety hazards"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Change clothes when necessary"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Wash hands thoroughly whenever it is required"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Avoid unsafe acts that may contaminate food"
+            },
+            {
+              "pc_code": "1.7",
+              "description": "Report any cuts, boils, grazes, illness and infections to the right personnel promptly"
+            },
+            {
+              "pc_code": "1.8",
+              "description": "Ensure that any cuts, boils, skin infections and grazes are treated and covered appropriately"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Need for Personal Hygiene",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain why clean and hygienic clothes must be worn"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "State why hair must be covered"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Enumerate the different types of protective clothes that are appropriate for different jobs in storage, preparation and cooking food"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Explain the food safety hazards that jewellery and accessories can cause"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Explain why clothes should be changed and when"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "State why hands must be washed at specific instances in Food Preparation Units"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Describe how to wash hands safely"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Explain why it is important not to handle food when a person has open injuries"
+            },
+            {
+              "pc_code": "2.9",
+              "description": "State what to do if anyone has an open wound"
+            },
+            {
+              "pc_code": "2.10",
+              "description": "Explain why it is important to report illnesses and infections promptly"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Work Environment Hygiene",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Ensure that surfaces and equipment are clean and in good condition"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use appropriate cloth that is clean for wiping and cleaning and cleaning equipment as you work"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Discard any surfaces and equipment that are damaged or that have any loose parts"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Report damaged surfaces, walls, ceilings, furniture, fittings and equipment to the appropriate Personnel"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Ensure that waste is disposed promptly, hygienically and suitably"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Identify and act appropriately on any signs of pests"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Explain why surfaces and equipment must be clean, hygienic and suitable for the intended use before commencing a new task"
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Describe how to sanitize surfaces and work tools before use"
+            },
+            {
+              "pc_code": "3.9",
+              "description": "State why it is important to use only clean and suitable cloths when cleaning before tasks"
+            },
+            {
+              "pc_code": "3.10",
+              "description": "Explain why surfaces, parts of the work place and equipment that are damaged or have loose parts constitute food safety hazards"
+            },
+            {
+              "pc_code": "3.11",
+              "description": "State the types of damage to be alert for"
+            },
+            {
+              "pc_code": "3.12",
+              "description": "Enumerate types of damaged surfaces or equipment that can cause food safety hazards"
+            },
+            {
+              "pc_code": "3.13",
+              "description": "Describe how to deal with damaged surfaces and equipment"
+            },
+            {
+              "pc_code": "3.14",
+              "description": "State the importance of clearing and disposing of waste promptly and safely"
+            },
+            {
+              "pc_code": "3.15",
+              "description": "State the types of pests that could be found in catering Establishments"
+            },
+            {
+              "pc_code": "3.16",
+              "description": "Describe the signs that signify the presence of pests"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Storing Food Safely",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Check the freshness, temperature and expiry date of food item"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Look for any important information on the label and leave it intact"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Carry out any necessary action to prepare food for storage"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Place food in appropriate storage place or equipment without temperature change"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Ensure that storage areas for different types of food items are clean, suitable and at the right temperature"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Prevent contamination while storing food"
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Follow appropriate stock usage procedures"
+            },
+            {
+              "pc_code": "4.8",
+              "description": "Dispose of any expired foods safely"
+            },
+            {
+              "pc_code": "4.9",
+              "description": "Keep all required records up-to-date"
+            },
+            {
+              "pc_code": "4.10",
+              "description": "Explain why it is important to ensure that food items are safe on delivery"
+            },
+            {
+              "pc_code": "4.11",
+              "description": "State why food should be prepared before storage"
+            },
+            {
+              "pc_code": "4.12",
+              "description": "Explain why food must be put in the correct storage area"
+            },
+            {
+              "pc_code": "4.13",
+              "description": "Enumerate the food storage temperatures"
+            },
+            {
+              "pc_code": "4.14",
+              "description": "State how to check that food is stored at the correct temperature."
+            },
+            {
+              "pc_code": "4.15",
+              "description": "Explain why any expired food must be thrown away and not used."
+            },
+            {
+              "pc_code": "4.16",
+              "description": "Explain why it is important to have a stock usage policy that rotates stock"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Food Safety in Preparing, Cooking and Holding",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Inspect food before and during preparation and cooking for any hazards"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Follow correct procedures for dealing with food hazards"
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Handle different types of food safely to prevent cross-contamination between them"
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Keep all required records updated"
+            },
+            {
+              "pc_code": "5.5",
+              "description": "Use appropriate methods, times and temperatures in order to maintain food safety"
+            },
+            {
+              "pc_code": "5.6",
+              "description": "Describe how to check that food is safe while holding and serving"
+            },
+            {
+              "pc_code": "5.7",
+              "description": "State why and when it is necessary to defrost foods before cooking"
+            },
+            {
+              "pc_code": "5.8",
+              "description": "Explain what to do on discovering any food safety hazards"
+            },
+            {
+              "pc_code": "5.9",
+              "description": "State why thorough cooking and reheating methods should be used"
+            },
+            {
+              "pc_code": "5.10",
+              "description": "Explain how to check that food is thoroughly cooked or safely reheated"
+            },
+            {
+              "pc_code": "5.11",
+              "description": "Explain why it is important to ensure that food is at the right temperature during holding and before service"
+            },
+            {
+              "pc_code": "5.12",
+              "description": "Describe how to safely and thoroughly defrost food"
+            },
+            {
+              "pc_code": "5.13",
+              "description": "Enumerate how to recognize conditions leading to safety hazards"
+            },
+            {
+              "pc_code": "5.14",
+              "description": "State why it is important to know the foods that can cause allergic reactions"
+            },
+            {
+              "pc_code": "5.15",
+              "description": "Outline the procedure to follow in handling food that can cause allergic reactions"
+            },
+            {
+              "pc_code": "5.16",
+              "description": "Explain what to do if a customer asks if a particular dish is free from a certain food allergen"
+            },
+            {
+              "pc_code": "5.17",
+              "description": "Describe how a raw food can contaminate a ready to eat food and how this can be avoided"
+            },
+            {
+              "pc_code": "5.18",
+              "description": "State the right cooking and re-heating temperatures and times for foods one is working with."
+            },
+            {
+              "pc_code": "5.19",
+              "description": "Enumerate the types of foods that may need to be frozen or stored cold because they are not to be consumed immediately"
+            },
+            {
+              "pc_code": "5.20",
+              "description": "Describe how to store food safely when it is not for immediate consumption"
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Maintaining Food Safety",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Enumerate how to operate a food safety management system"
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Explain the concept of hazards to food safety in Catering operations"
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Explain why it is important to control food safety hazards in order to reduce or eliminate risks"
+            },
+            {
+              "pc_code": "6.4",
+              "description": "State what may happen if hazards are not controlled"
+            },
+            {
+              "pc_code": "6.5",
+              "description": "List the types of hazards that may occur in a catering operation"
+            },
+            {
+              "pc_code": "6.6",
+              "description": "Enumerate how to control hazards by cooking, chilling, cleaning and avoiding cross-contamination"
+            },
+            {
+              "pc_code": "6.7",
+              "description": "Explain why monitoring is important"
+            },
+            {
+              "pc_code": "6.8",
+              "description": "List the key stages in the monitoring process"
+            },
+            {
+              "pc_code": "6.9",
+              "description": "State why it is important to know what to do when things go wrong"
+            },
+            {
+              "pc_code": "6.10",
+              "description": "Explain why some hazards are given more emphasis than others"
+            },
+            {
+              "pc_code": "6.11",
+              "description": "State the appropriate personnel to report to if there are food safety hazards"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/FBS/005/L3",
+      "title": "SUPERVISE DINING ROOM OPERATION AREA",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Organize Dining Room Staff",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Allocate opening and closing duties to staff in accordance with establishment/industry standards"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Allocate side work and service station to staff in accordance with establishment/industry standards"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Prepare duty/shift schedules in accordance with establishment/industry standards"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Implement Polices",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Check the attendance and punctuality of staff in accordance with establishment/industry standards"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Monitor that service standards are adhered to in accordance with establishment/industry standards"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Ensure that food safety in handling and risk management are adhered to in accordance with establishment/industry standards"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Ensure that staff adhere to laid down rules and regulations in line with establishment/industry standards."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Recommend discipline of staff in accordance with establishment/industry standards"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Train and Develop Staff",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Train new staff in accordance with establishment/industry standards"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Promote deserving staff in accordance with establishment standards"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Retrain and cross training of staff"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Appraise staff performance in accordance with the establishment policy"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know Dining Room Operation",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Set-up a dining room"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Conduct staff scheduling"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Handle food in line with industry standards"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Explain why staff development is necessary"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Explain why food storage is important in food service operation"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Explain why feedback is important in food service operation"
+            },
+            {
+              "pc_code": "4.7",
+              "description": "Conduct staff appraisal"
+            },
+            {
+              "pc_code": "4.8",
+              "description": "Explain why risk management in food service operation is important"
+            },
+            {
+              "pc_code": "4.9",
+              "description": "Apply new technology in food service operation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/FBS/006/L3",
+      "title": "HANDLE BANQUET/CATERING FUNCTION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Pre-function mise-en place",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Process all relevant information needed for the function: date of event, number/type of guests, type of meal and service, table layout and set-up and special requests"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Process all the supplies in accordance to the event/function requirements"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Supervise the set-up of tables and chairs according to the function requirements"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Supervice the set-up of serving stations and food islands according to the agreed location"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Ensure all the required table wares, flat wares and glassware are clean and complete"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Supervise meetings and briefings prior to the event/function"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Oversee Meal Service",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Organise close contact with host, chef, kitchen staff, service staff throughout the event"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Supervise prompt delivery of each course meal"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Coordinate timing of each meal with the kitchen staff, host and service staff"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Supervise banquet staff work and pace throughout the meal service"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Ensure the banquet service style according to the hosts request."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Supervise After Meal Service",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Ensure timely provision of coffee or tea service upon request"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Analyse banquet breakdown according the establishment standards"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Process event report after each function"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Supervise Banquet And Catering Function",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Supervise banquet service"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Supervise the set up of banquet"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Supervise the preparation of the floor plan"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Supervise the preparation of the seating arrangement"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Supervise catering service"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/FBS/007/L3",
+      "title": "LEAD DINING AREA/RESTAURANT TEAM",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Supervise Preopening Preparations",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Supervise table assignment for each waiters and monitor guest reservations."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Inspect the waiter service stations are complete with necessary stocks and supplies for the day\u2019s service"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Enaure the dining area is clean and arranged according to the establishment standards"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Ensure service staff are properly attired and compliant to the establishment standards."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Oversee Food and Beverage Service In The Dining Area",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Monitor that standards of service are adhered to by the staff"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Monitor service staff are compliant to"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Conduct service briefing at the beginning of the shift"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Coordinate the flow of the service with the kitchen"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Communicate the guest request to the kitchen staff"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Provide assistance in service during the peak hours"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Resolve complains of guest to their satisfaction"
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Ensure quality standards are adhered to during the entire service"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Perform Specialized Dining Room Service",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Supervise specialized dining room service according to the standards of the establishment"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Supervise the Mise-en-place and service of gueridon or trolly service"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Ensure safety and occupational standards is adhered to."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Supervise Team In The Dining Area",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Deliver service briefing"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Provide assistance in service and its components"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Ensure specialist room service is carried out"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Ensure \u201cgueridon service\u201d is carried out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/FBS/008/L3",
+      "title": "PROVIDE SILVER SERVICE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Anticipate The Needs Of Guests With Reference To The Menu",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Process the information on the menu and determine what other factors may facilitate customer service"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Perform a random check of the items that should be available for service"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "List factors that may interrupt service and place them under control"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain the importance of maintaining a serene and placable composure before serving guests"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Welcome Guests And Take Orders",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Greet a guest in the customary manner in line with organizational standards"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Present menu card to the guest"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Record orders properly in the docket list"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Provide adequate information to guest including information about waiting time"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Process the order promptly"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "State why you should have adequate knowledge of menu before presenting it to guest"
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Explain organisational standards for customer service"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Serve Customer orders",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Announce and present order to guest I love you"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Respond to guest questions or complaints calmly and effectively"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Ensure a tidy service area is maintained during guest Meals"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Ensure Service area is always kept clean and tidy"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Treat reports of unexpected incidences"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Monitor to ensure that drinks and accompaniments are refilled as often as required"
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Deal with unexpected situations effectively"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Clear Courses",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Ensure table is cleared after guest has completed a meal."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Ensure all items used by guest are assembled and cleared off the table"
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Ensure all stained tables are handled."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Process reports of breakages and damages as recommended."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Ensure the dining room/service area are clean, tidy and ready for the next guest."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/FBS/009/L3",
+      "title": "PROVIDE BUFFET AND CARVER SERVICE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Arrange a Room for a Buffet Service",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Supervise the cleaning and positionining of tables according to service style"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Sipervise the Lay up of tables and decorations in line with organizational standards"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Ensure sitting arrangements that will afford maximum comfort to guests"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Discuss reasons why there should be different service points in a buffet room"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Arrange Food Items in a Buffet Style",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Supervise the distribution of buffet items to different service points"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Ensure that the Cheffing dishes out with the required temperature for each food"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Ensure that service equipment are clean undamaged and ready for use"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Ensure that the displayed items are at a comfortable distance from the guest"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Handle unexpected incidence that may occur during service"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Explain organisational standards for customer service"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Assist Customers at the Buffet and Carvery",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Interact with customers and provide information about the dishes on request"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Supervise Service of customers\u2019 food."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Ensure a tidy service area is maintained during guest meals"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Process reported incidences as recomended"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Ensure hygienic walking practices when preparing and maintaining a carvery or buffet display"
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Ensure that service equipment are turned on before Service"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/FBS/010/L3",
+      "title": "PREPARE AND SERVE COCKTAILS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Preparation For Cocktail Service",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Supervise the cleaning and organizing of work areas before service time"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Ensure that mise-en-place for accompaniments, garnishes and mixed liquids are carried out"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Supervise arrangement of glasses and plates for ease of service"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Supply documents for use"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Supervise measurement of all ingredients for use"
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Ensure that service equipment are clean and functional"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Serve Customers On Request",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Monitor how customers are welcomed and orders taken."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Ensure orders are processed promptly."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Ensure that only required information is passed to customers to avoid information mismanagement."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Ensure that safe and hygienic working practices are followed when serving cocktails"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Handle unexpected incidence effectively"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Handle Alcohol incidences",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Provide the requirements and guidelines for serving alcoholic drinks"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Direct how best to handle violent cases of alcohol intoxication"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Provide adequate information about the alcohol content of drinks."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Process reports of breakages and damages appropriately"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Provide guidelines under which a customer must not be served alcohol."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "HTT/FBS/011/L3",
+      "title": "PROVIDE TABLE AND TRAY SERVICE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Welcome customer and take orders",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Greet customer politely in line with organizational standard"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Provide correct menus"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Ensure appropriate dinning arrangements in line with service style"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Ensure customers orders are taken and record."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Welcoming customers and taking orders",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate correct procedures for greeting and sitting customers."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate correct procedures for taking and recording cutomers\u2019 order"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Process reports of incidences arising from Trat and Table service."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Serve Customer Orders S/N NAME ORGANISATION 1 ABDULHAMID MOHAMMED SHERIFF INSTITUTE OF TOURISM PROFESSIONALS OF NIGERIA 2 3 HAJARA ABDULKADIR NBTE",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Ensure customers are served with the service items condiments and accompaniments appropriate to their food"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Ensure customers are served with appropriate, clean and undamaged equipment."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Ensure customers dining and service area always kept clean and tidy."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Ensure all soiled and unused service items are disposed promptly."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Ensure sufficient stock of clean service items condiments and accompaniments during Service."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Ensure Safe and Hygienic Working Practices When Serving Customers."
+            },
+            {
+              "pc_code": "3.7",
+              "description": "Provide Condiments and accompaniments suitable for each dish."
+            },
+            {
+              "pc_code": "3.8",
+              "description": "Ensure appropriate equipment are used when serving food and drink items. EMAIL ADDRESS sheriffam1611@gmail.com"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
