@@ -1,0 +1,532 @@
+{
+  "trade_name": "NOS ICT Satellite TV Antenna Installation and Maintenance",
+  "level": 3,
+  "units": [
+    {
+      "code": "ICT/SAT/001/L3",
+      "title": "OCCUPATIONAL HEALTH AND SAFETY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Principles and Practices of Health and Safety",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Conduct a detailed risk assessment for satellite installation activities, focusing on potential hazards such as working at heights, electrical risks, and falling objects."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain new hazards that may arise from changing weather conditions, site layout, or complex installations (e.g., urban vs. rural environments)."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Demonstrate control measures to mitigate identified hazards, including the use of barriers, warning signs, and proper work zoning."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Know importance of implementing control measures through continuous monitoring during the installation process."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Application of Advanced Personal Protective Equipment (PPE) and Safety Gear",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify appropriate PPE specific to complex satellite installations, such as full-body harnesses, shock-absorbing lanyards, and insulated gloves for electrical safety."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate procedures for inspecting and maintaining PPE to ensure functionality, including checking expiration dates and performing routine equipment inspections."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain the importance of ergonomics when selecting PPE for extended periods of use, particularly for tasks involving repetitive movements or working in awkward positions."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Perform a safety drill involving the use of PPE, simulating emergency situations (e.g., a fall or electrical shock) and demonstrating proper response techniques"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Emergency Preparedness and Response Procedures",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Develop emergency response plans specific to satellite installations, addressing fire, electrical hazards, and working at heights emergencies."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain role of emergency evacuation plans and the importance of identifying and maintaining clear escape routes during large installations."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Demonstrate emergency communication devices (e.g., two-way radios, emergency alarms) to notify team members and emergency services during a crisis."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carry out emergency evacuation drill, where learners practice responding to an incident such as a fire or medical emergency, ensuring all safety protocols are followed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/SAT/002/L3",
+      "title": "Communication in workplace",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Advanced Professional Communication Techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Demonstrate clear and concise verbal communication to convey technical instructions and safety guidelines during satellite installation projects."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain active listening techniques in discussions with team members and clients, ensuring that feedback and concerns are understood and addressed."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain tailoring communication to suit the audience, such as using technical language with colleagues and simplified explanations for clients or non-technical personnel."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Role-playing exercise where learners manage communication between team members and clients, focusing on clarity, tone, and professionalism."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Handling Communication in High-Pressure Situations",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate maintain composure and use effective communication during high-pressure scenarios, such as project delays or safety incidents."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain assertive communication to resolve conflicts within a team or with clients without escalating the situation."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Apply de-escalation techniques when communicating with clients or team members who may be upset or frustrated due to unforeseen project challenges."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Simulate situation where learners must communicate effectively with both their team and clients to resolve a project issue or safety concern."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Digital Communication Tools for Remote Work and Team Coordination",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Use of digital communication tools (e.g., email, project management software, messaging apps) for coordinating remote teams during satellite installations."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the importance of keeping detailed digital communication records, including email chains, project updates, and client feedback, to ensure accountability and traceability."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Know Role of video conferencing and virtual collaboration tools in facilitating communication between geographically distributed teams."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Demonstrate monitoring remote satellite installation project using digital communication tools."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/SAT/003/L3",
+      "title": "TEAMWORK",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Advanced Team Dynamics and Leadership Skills",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain roles and responsibilities within a satellite installation team."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate leadership techniques that promote team cohesion."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Discuss the importance of adaptability within a team."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Conduct a group exercise where learners assume different leadership roles and work on solving a project challenge, applying team dynamics and leadership principles."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Collaborative Problem-Solving in Satellite Installation Projects",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate complex satellite installation challenges"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Apply critical thinking and collaborative decision-making techniques."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain time management in collaborative work."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Perform a group task where trainees must collaboratively solve a technical problem (e.g., a signal issue) using effective communication, resource allocation, and decision-making skills."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Building Trust and Accountability in Teams",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Discuss the role of trust in high-functioning teams and how establishing clear expectations and transparency leads to better collaboration and accountability."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the impact of individual accountability on team success, focusing on how each member’s contribution affects the overall project outcome."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Demonstrate techniques for providing constructive feedback and encouraging self-assessment to improve performance and foster accountability in a team setting."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Conduct an activity where learners give and receive feedback within a team, focusing on building trust and accountability through open communication and mutual respect."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/SAT/004/L3",
+      "title": "TOOLS AND EQUIPMENT FOR SATELLITE TV ANTENNA INSTALLATION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Basic Tools (Standard for All Levels)",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe basic tools such as Screwdrivers (Phillips, flathead), Drills (corded or cordless), Wrenches and Ratchets, Wire cutters/Strippers, Pliers, and cables ties"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Discuss different types and brands of tools. For example, compare cordless vs. corded drills for different installation environments (e.g., residential vs. commercial)."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Select tools based on installation needs, including durability, power, and adaptability to different job types."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand the procedure of Mounting Satellite TV Equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify the necessary tools, materials, and safety gear required for the installation."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Inspect the satellite dish and related equipment for defects or damage."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use appropriate tools to securely mount the dish on walls, poles, or other structures."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Use a satellite signal meter or compatible software to locate the satellite and optimize signal strength."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Use weather-resistant coaxial cables and connectors for outdoor installations."
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Connect the satellite receiver to the TV and verify signal input."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Use ladders, harnesses, or other equipment to ensure safe working conditions at heights."
+            },
+            {
+              "pc_code": "2.8",
+              "description": "Demonstrate the ability to troubleshoot minor signal or connectivity issues."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Introduction to Digital and Software Tools for Satellite Alignment",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "use digital satellite finders to achieve precise satellite alignment."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use smartphone apps and software-based tools to calculate azimuth, elevation, and polarization angles based on geographic location."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Compare the accuracy and ease of use between traditional manual tools and digital alignment tools for both commercial and residential installations."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Calibration and Maintenance Tools for Satellite Equipment",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Discuss the importance of regular calibration and maintenance of satellite installation tools, such as signal meters, oscilloscopes, and calibration kits."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Calibrate a signal strength meter for accurate readings during dish alignment and maintenance."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Use electrical test tools (e.g., multimeters) to diagnose power supply issues and faulty components in satellite receivers and amplifiers."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Perform routine maintenance on installation tools, including testing signal accuracy, recalibrating tools, and ensuring the integrity of cables and connectors."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/SAT/005/L3",
+      "title": "ADVANCED SATELLITE DISH SETTING AND CONFIGURATIONS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Dish Alignment and Tracking",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Discuss Dish Alignment with Geostationary Satellite"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Discuss Motorized Satellite Antennas (DiSEqC Motor)"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Program DiSEqC (Digital Satellite Equipment Control)"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain Polar Mount Systems"
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Troubleshooting common issues with polar mount systems, such as misalignment or motor failure"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Multiswitch Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe Single Satellite to Multiple Receiver Setup"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Discuss Multisatellite Configuration"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Configure Cascade Systems for Apartment Buildings"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Signal Distribution and Integration",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Demonstrate Signal Amplification and Attenuation"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Diagnose issues related to signal degradation over long cable runs."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Fix issues found in 3.2"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Combine Satellite TV with Terrestrial (TV Aerial) Signals"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Discuss SMATV (Satellite Master Antenna Television)"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Testing and Troubleshooting Advanced Satellite Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Use Spectrum Analyzer for Interference Detection"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Identify different types of interference (e.g., electromagnetic, signal overlap) and how to resolve them."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Use Field Strength Meters for signal detection"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Perform Satellite Receiver Firmware Updates"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Identify Cable Faults"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Resolve 4.5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/SAT/006/L3",
+      "title": "TESTING AND TROUBLESHOOTING ADVANCED SATELLITE SYSTEMS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Advanced Signal Testing Tools",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Use Advanced Spectrum Analyser for Satellite Systems"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain Signal Path Analysis and Optimization"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Advanced Receiver Diagnostics"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Signal Quality and Modulation Schemes"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Global Best Practices and Standards",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Discuss Best Practices for Multi-Satellite Systems"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain Standards for High-Frequency Satellite Systems"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain Global Standards for Satellite Security"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Discuss Environmental and Sustainability Standards for Satellite Installations"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Signal Optimization Techniques for Satellite Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Discuss advanced techniques for optimizing signal quality, including the use of adaptive modulation and coding (ACM) to adjust for changes in weather and interference."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the role of error correction methods like forward error correction (FEC) in improving signal integrity and data throughput."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Demonstrate the optimization of satellite dish alignment for multi-beam satellites or high-throughput satellite (HTS) networks"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explore techniques for optimizing uplink power control to minimize interference and maintain signal quality in variable atmospheric conditions."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Advanced Troubleshooting of Satellite Ground Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Explain the process of troubleshooting uplink and downlink systems, focusing on signal interference, attenuation, and equipment calibration."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Troubleshoot issues with satellite modems, signal amplifiers, and low-noise block downconverters (LNBs)."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Resolve issues in 4.2"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Identify common causes of signal attenuation in long-distance cable runs and how to mitigate these issues using repeaters and amplifiers."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Troubleshoot satellite ground equipment"
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Explore techniques for maintaining redundancy in satellite ground systems."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
