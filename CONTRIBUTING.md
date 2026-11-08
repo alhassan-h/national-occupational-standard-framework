@@ -101,6 +101,7 @@ These NOS have already been converted to JSON. Pick a trade **not** listed here 
 | ICT Robotics | | | ✅ | | |
 | ICT Satellite TV Antenna Installation and Maintenance | | | ✅ | | |
 | ICT Social Media Contents Creation and Management | ✅ | ✅ | ✅ | | |
+| ICT UI UX Design | | | ✅ | | |
 | ICT Video Production and Editing | | | ✅ | | |
 | ICT Web Development | | ✅ | ✅ | ✅ | |
 | Leather Works | ✅ | ✅ | ✅ | | |
