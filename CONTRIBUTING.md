@@ -70,7 +70,7 @@ These NOS have already been converted to JSON. Pick a trade **not** listed here 
 | Automobile Mechanics | ✅ | ✅ | ✅ | | |
 | Blacksmithing | ✅ | ✅ | ✅ | | |
 | Carpentry and Joinery | ✅ | ✅ | ✅ | | |
-| Construction Equipment | ✅ | | | | |
+| Construction Equipment | ✅ | ✅ | | | |
 | Cosmetology and Beauty Therapy | ✅ | ✅ | ✅ | | |
 | Electrical Installation Maintenance and Repairs | ✅ | ✅ | ✅ | | |
 | Fashion and Garment Making | ✅ | ✅ | ✅ | | |
@@ -93,20 +93,23 @@ These NOS have already been converted to JSON. Pick a trade **not** listed here 
 | ICT Digital Animation | | | ✅ | | |
 | ICT Digital Content Creation | | | ✅ | | |
 | ICT Digital Service Operations | | ✅ | ✅ | | |
+| ICT E-Commerce Development | | | | ✅ | ✅ |
 | ICT Front-End Web Development | | | ✅ | | |
 | ICT Graphic Design | | | ✅ | | |
+| ICT Internet of Things | | | ✅ | | |
 | ICT Mobile App Development | | | | | ✅ |
 | ICT Network Support Specialist | | | | ✅ | |
 | ICT Programming with Java | | | ✅ | ✅ | |
 | ICT Programming with PHP using Laravel and MySql | | | | | ✅ |
 | ICT Robotics | | | ✅ | | |
-| ICT Satellite TV Antenna Installation and Maintenance | | | ✅ | | |
+| ICT Satellite TV Antenna Installation and Maintenance | | | ✅ | ✅ | |
 | ICT Social Media Contents Creation and Management | ✅ | ✅ | ✅ | | |
+| ICT UI UX Design | | | ✅ | | |
 | ICT Video Production and Editing | | | ✅ | | |
 | ICT Web Development | | ✅ | ✅ | ✅ | |
 | Leather Works | ✅ | ✅ | ✅ | | |
 | Masonry | ✅ | ✅ | ✅ | | |
-| Mobile Phone Repairs and Maintenance | | ✅ | | | |
+| Mobile Phone Repairs and Maintenance | ✅ | ✅ | | | |
 | Network Cabling, Installation and Maintenance | | ✅ | | | |
 | Painting and Decoration | ✅ | ✅ | ✅ | | |
 | Plumbing | ✅ | ✅ | ✅ | | |
