@@ -52,6 +52,27 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
     # TEAM LIST"), so match the shared shape rather than each literal.
     appendix_pattern = re.compile(r"PARTICIPANTS?\s+FOR\b|\bTEAM\s+LIST\b")
 
+    # The same words also turn up where no attendee list starts: inside a
+    # performance criterion ("1.4 Recruit participants for usability
+    # testing.") and as a contents-page entry ("TEAM LIST 76"). Stopping on
+    # either silently drops every unit after that page. A real appendix
+    # heading is a line of its own that is neither numbered like a PC nor
+    # closed by a contents-page page number, so test line by line.
+    summary_row_tail_pattern = re.compile(r"\s\d+\s+\d+\s+LEVEL\s*\d+\s*$", re.IGNORECASE)
+    pc_line_pattern = re.compile(r"^\s*(?:PC\s+)?\d+\.\d+\b")
+    page_number_tail_pattern = re.compile(r"(?:\.{2,}|\s)\d{1,3}\s*$")
+
+    def is_appendix_heading_page(page_text):
+        for page_line in page_text.upper().split("\n"):
+            if not appendix_pattern.search(page_line):
+                continue
+            if pc_line_pattern.match(page_line):
+                continue
+            if page_number_tail_pattern.search(page_line):
+                continue
+            return True
+        return False
+
 
     # The repeated LO/PC table header ("LEARNING OBJECTIVE (LO)" / "The
     # learner will:" / "PERFORMANCE CRITERIA (PC)" / "The learner can:" /
@@ -190,7 +211,7 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
             # extracting entirely for the rest of the document -- otherwise
             # its free-form text gets mistaken for continuation of the last
             # LO/PC.
-            if appendix_pattern.search(text.upper()):
+            if is_appendix_heading_page(text):
                 reached_appendix = True
             if reached_appendix:
                 continue
@@ -260,6 +281,16 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
                 header_match = unit_header_pattern.search(line)
                 if header_match:
                     candidate_title = header_match.group(1).strip()
+                    if summary_row_tail_pattern.search(candidate_title):
+                        # A Mandatory Units summary-table row ("UNIT 05
+                        # Analysis 2 20 LEVEL 3"), not a unit heading.
+                        # Treating it as one leaves a pending title that
+                        # the next bare reference-number line in the table
+                        # then pairs with, creating a phantom unit. Also drop
+                        # any title left pending from the previous row.
+                        pending_title = ""
+                        pending_title_line = False
+                        continue
                     if not is_repeat_of_current_title(candidate_title):
                         pending_title = candidate_title
                         if not pending_title:
@@ -325,6 +356,10 @@ def parse_pdf_to_json(pdf_path, trade_name=None):
                         and not title_stop_pattern.match(line)):
                     pending_title = (pending_title + " " + line).strip()
                     title_wrap_budget -= 1
+                    # Wrapped onto the credits/hours/LEVEL tail of a
+                    # summary-table row: not a real heading, drop it.
+                    if summary_row_tail_pattern.search(pending_title):
+                        pending_title = ""
 
             # 2. Process Tables for LOs and PCs
             unit_after_text = current_unit
