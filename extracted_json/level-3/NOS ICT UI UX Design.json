@@ -1,0 +1,822 @@
+{
+  "trade_name": "NOS ICT UI UX Design",
+  "level": 3,
+  "units": [
+    {
+      "code": "ICT/UIX/001/L3",
+      "title": "OCCUPATIONAL HEALTH AND SAFETY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Workplace Health and Safety Regulations",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain key OHS legislation and regulations relevant to the IT sector."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the roles and responsibilities of individuals and organizations in maintaining a safe work environment"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe the process for reporting health and safety risks and incidents."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Identify Workplace Hazards and Implement Control Measures",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify common hazards in IT work environments, including electrical, ergonomic, and data-related risks"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Assess the severity and likelihood of potential hazards in specific IT tasks."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Implement appropriate control measures, such as safe cabling practices, ergonomic workstation setup, and electrical safety protocols."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Apply Emergency Procedures and First Aid in the Workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Demonstrate the correct procedure for responding to workplace emergencies, such as electrical fires or equipment malfunctions."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Perform basic first aid techniques, including treating minor injuries and using first aid equipment"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Communicate and coordinate effectively with emergency services and other relevant personnel during a workplace incident."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/UIX/002/L3",
+      "title": "Teamwork",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the Roles and Responsibilities within a Team",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the different roles and functions within an IT team (e.g., network engineers, system administrators, software developers)."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe the key responsibilities and contributions of each team member."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Recognize the importance of each role in achieving the team's objectives."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Foster Positive Working Relationships within a Team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate techniques for effective interpersonal communication and conflict resolution in a team environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "demonstrate the ability to provide constructive feedback and actively listen to others' contributions"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Promote inclusivity and collaboration among team members to ensure participation and engagement from all."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Contribute to Team Problem-Solving and Decision-Making",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Participate in group discussions to identify and analyse IT-related problems."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Initiate innovative solutions and support team decision-making processes."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Evaluate the effectiveness of team decisions and propose improvements where necessary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/UIX/003/L3",
+      "title": "Communication",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Communicate Technical Information Clearly and Accurately",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain IT concepts, procedures, and solutions in a manner appropriate to the audience, whether technical or non-technical."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use industry-standard terminology correctly when describing technical processes"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Adapt communication methods to suit the context, such as written reports, emails, or verbal presentations."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Utilize Digital Communication Tools Effectively",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate proficiency in using digital tools for communication, such as email, messaging platforms, and collaboration software (e.g., Slack, Teams)."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Comply with best practices for professional digital communication, including email etiquette and secure file sharing."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use collaborative tools to share and receive feedback on documents, code, or project updates."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Communicate effectively in a Professional Context",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Listen to team discussions or client meetings."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Respond to questions, concerns, and feedback clearly and effectively."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Provide feedback to ensure mutual understanding."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/UIX/004/L3",
+      "title": "INTRODUCTION TO UI/UX DESIGN",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the principles of UI and UX designs.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain core concepts of UX UI in product development"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify key components and processes involved"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Recognise the impact of good UX UI on user satisfaction and business success"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand the role of UI UX in product development",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the significance of UX UI in enhancing user experience"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify the tools and techniques used"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Describe the stages of the UX UI design process."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Recognise the impact of good UI UX design",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Discuss different case studies of successful UX UI designs."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify common pitfalls in UX UI design and how to avoid them"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Evaluate the business benefits of effective UX UI design."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/UIX/005/L3",
+      "title": "USER RESEARCH ANALYSIS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Conduct effective user research.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Carry out user research activities."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Analyse user data effectively."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Present research findings in a clear and actionable manner."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Apply User-Centred Design (UCD) principles",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Use UCD principles to create user-focused designs."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Carry out user interviews and surveys."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Evaluate user feedback to inform design decisions."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Utilize various research methods and tools.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Carry out usability testing and contextual inquiries."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use personas and user journey maps in research."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Apply data analysis tools to interpret research findings."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/UIX/006/L3",
+      "title": "INFORMATION ARCHITECTURE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Develop effective information architecture.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Create site maps and wireframes."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Organize content to enhance user navigation."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Evaluate the effectiveness of information architecture."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Improve user navigation and experience.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Design intuitive navigation systems"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Carry out card sorting exercises."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Test navigation systems with users."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Apply principles of information architecture",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Use hierarchy and categorization effectively."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Maintain consistency in information presentation."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Optimize information architecture for different devices."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/UIX/007/L3",
+      "title": "WIREFRAMING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the fundamentals of wireframing",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the purpose of wireframing in the design process."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the importance of wireframing in the design process"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify different types of wireframes"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Show the key components of a wireframe"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Develop wireframing skills using appropriate tools",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Create low-fidelity wireframes using basic sketching techniques."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use wireframing software to develop mid-fidelity wireframes."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Incorporate interactive elements in high-fidelity wireframes."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Perform iterations on wireframe designs",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify areas for improvement in the wireframe"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Conduct usability testing on wireframes."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Gather user feedback."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Analyse feedback areas"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Iterate on wireframe designs based on stakeholder input."
+            },
+            {
+              "pc_code": "3.6",
+              "description": "Test results."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/UIX/008/L3",
+      "title": "Visual Design Principles",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Apply visual design principles.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain colour theory, topography, and layout"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use colour theory to create visually appealing designs."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Apply typography principles to enhance readability."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Create layouts that improve user experience."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Create visually appealing user interfaces.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain brand guidelines on user interface across different screens"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Design interfaces that align with brand guidelines."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use visual hierarchy to guide user attention."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Maintain visual consistency across different screens."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Evaluate visual design effectiveness.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Carry out visual design reviews."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Gather user feedback on visual design."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Iterate on visual designs based on feedback."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/UIX/009/L3",
+      "title": "PROTOTYPING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Develop prototypes to visualize design ideas.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify prototyping tools."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Create low-fidelity wireframes and sketches."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Develop high-fidelity interactive prototypes."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Test and refine prototypes.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Conduct usability testing on prototypes."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Gather user feedback on prototypes."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Iterate on prototypes based on testing results."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Communicate design ideas through prototypes.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Present prototypes to stakeholders."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Use prototypes to gather stakeholder feedback."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Document the prototyping process."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/UIX/010/L3",
+      "title": "USABILITY TESTING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Conduct Usability Tests",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain Usability testing"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Discuss various techniques required for usability testing"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Develop usability test plans."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Recruit participants for usability testing."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Conduct usability tests and gather data."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Analyse usability test results",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Analyse data from usability tests."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify usability issues and areas for improvement."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Present usability findings to stakeholders."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Implement usability improvements.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Develop action plans to address usability issues."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Make design changes based on usability findings."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Validate improvements through follow-up testing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/UIX/011/L3",
+      "title": "ADVANCED PROTOTYPING AND INTERACTION DESIGN",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Create advanced interactive prototypes.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Use advanced prototyping tools and techniques."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Develop interactive elements and animations."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Ensure prototypes are functional and realistic."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Refine interaction designs.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain the concepts of interaction design"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Conduct interaction design reviews."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Gather user feedback on interaction designs."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Iterate on interaction designs based on feedback."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Validate interaction designs.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Conduct usability testing on interaction designs."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Analyse test results and identify improvements."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Validate through follow-up testing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/UIX/012/L3",
+      "title": "COLLABORATION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Collaborate effectively with stakeholders.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Communicate design ideas clearly to stakeholders."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Incorporate stakeholder feedback."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Facilitate design discussions and workshops."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Ensure smooth design handoff to developers.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Prepare documentation with the specification design."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Use collaboration tools to share design assets."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Support developers during the implementation phase using Slack, JIRA, or Asana"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Maintain design consistency during implementation.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Conduct design reviews during implementation."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Address design issues promptly."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Ensure final product aligns with design specifications."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/UIX/013/L3",
+      "title": "PORTFOLIO DEVELOPMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Develop a professional design portfolio.",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Write clear and concise project descriptions."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Create a cohesive and visually appealing portfolio layout."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Organize design projects to include in the portfolio."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Present design work effectively.",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain storytelling techniques."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate the ability to articulate design decisions and rationale"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Prepare a presentation of the portfolio for different audiences."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Improve the portfolio.",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Gather feedback from peers and mentors on the portfolio."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Analyse feedback to identify areas for improvement."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Implement changes to enhance the quality and impact of the portfolio."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
