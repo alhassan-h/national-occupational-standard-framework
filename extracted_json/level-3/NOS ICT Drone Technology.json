@@ -1,0 +1,658 @@
+{
+  "trade_name": "NOS ICT Drone Technology",
+  "level": 3,
+  "units": [
+    {
+      "code": "ICT/DRT/001/L3",
+      "title": "OCCUPATIONAL HEALTH AND SAFETY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Workplace Health and Safety Regulations",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain key OHS legislation and regulations relevant to Drone Technology"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the roles and responsibilities of individuals and organizations in maintaining a safe work environment"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe the process for reporting health and safety risks and incidents."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Identify Workplace Hazards and Implement Control Measures",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify common hazards in Drone Technology work environments, including electrical, ergonomic, and data-related risks"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Assess the severity and likelihood of potential hazards in specific Drone tasks."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Implement appropriate control measures, such as safe cabling practices, ergonomic workstation setup, and electrical safety protocols."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Apply Emergency Procedures and First Aid in the Workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Demonstrate the correct procedure for responding to workplace emergencies, such as electrical fires or equipment malfunctions."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Perform basic first aid techniques, including treating minor injuries and using first aid equipment"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Communicate and coordinate effectively with emergency services and other relevant personnel during a workplace incident."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DRT/002/L3",
+      "title": "Teamwork",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the Roles and Responsibilities within a Team",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the different roles and functions within an Drone Technology team (e.g., network engineers, system administrators, software developers)."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe the key responsibilities and contributions of each team member."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Recognize the importance of each role in achieving the team's objectives."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Foster Positive Working Relationships within a Team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate techniques for effective interpersonal communication and conflict resolution in a team environment."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Show the ability to provide constructive feedback and actively listen to others' contributions"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Promote inclusivity and collaboration among team members to ensure participation and engagement from all."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Contribute to Team Problem-Solving and Decision-Making",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Participate in group discussions to identify and analyse Drone Technology related problems."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Suggest innovative solutions and support team decision-making processes."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Evaluate the effectiveness of team decisions and propose improvements where necessary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DRT/003/L3",
+      "title": "Communication",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Communicate Technical Information Clearly and Accurately",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain Drone concepts, procedures, and solutions in a manner appropriate to the audience, whether technical or non-technical."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Use industry-standard terminology correctly when describing technical processes"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Adapt communication methods to suit the context, such as written reports, emails, or verbal presentations."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Utilize Digital Communication Tools Effectively",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Use digital tools for communication, such as email, messaging platforms, and collaboration software (e.g., Slack, Teams)."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Adhere to best practices for professional digital communication, including email etiquette and secure file sharing."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Use collaborative tools to share and receive feedback on documents, code, or project updates."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Listen and Respond Appropriately in a Professional Context",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Demonstrate active listening skills during team discussions or client meetings."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Respond to questions, concerns, and feedback clearly and effectively."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Clarify misunderstandings and summarize discussions to ensure mutual understanding."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DRT/004/L3",
+      "title": "FUNDAMENTALS OF DRONE TECHNOLOGY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the concept of Drone Technology",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain Drone Evolution"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain Impact of Drones in various industries"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain Applications of Drone Technology"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Types of Drones",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Mention types of Drones"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain Multirotor, Fixed-wing and hybrid drones."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain application of Drones in Agriculture, Survey, Photography."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Drone Components",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Mention Drone components"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain the functions of Brushless motors and propellers"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain the functions of Sensors and Flight controllers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DRT/005/L3",
+      "title": "DRONE MECHANICS AND FLIGHT PHYSICS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Principles of Aerodynamics",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define Aerodynamics"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "State the principles of Aerodynamics"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the following: a. Lift b. Thrust c. Stability"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Drone Control Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Explain Control systems"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain controllers"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain Gyroscopes"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Explain Accelerometers"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Drone Electronics",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Describe Basic Drone Circuitry for Quadcopters"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain Functions of the Power distribution"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain safety considerations of power distributions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DRT/006/L3",
+      "title": "DRONE ASSEMBLY AND MAINTENANCE",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Parts Assembly",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify different parts of a Drone"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Assemble the different parts."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Use kits to practices Assembly"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Battery and Power Management",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Define Power management in Drone Technology"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain Battery Capacity"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Describe Battery Management for Endurance flight"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Demonstrate battery Safety"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Maintenance and Troubleshooting",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Carryout regular maintenance"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Diagnose problems"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Carryout corrective practices"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carryout preventive practices"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DRT/007/L3",
+      "title": "FLIGHT OPERATIONS AND TRAINING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Flight Controls and Operations",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Setup the controller"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Configure the Controller"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Calibrate the controller"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Flight techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Practice take-off"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate Landing"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Demonstrate hovering"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Practice orientation control"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Maintenance and Troubleshooting",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Carryout regular maintenance"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Diagnose problems"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Carryout corrective practices"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carryout preventive practices"
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Know Safety Protocols",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify the importance of pre-flight inspections"
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Checklist for drone hardware, software, and battery conditions."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain drone flight regulations and restrictions"
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Assess weather conditions before flight"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Manage Challenges like wind, rain and low visibility"
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know Emergency procedures",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Carryout controlled emergency landing"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Identify safe landing zones."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Use on-board sensors and manual navigation to avoid obstacles."
+            },
+            {
+              "pc_code": "5.4",
+              "description": "Carryout strategies for handling unexpected obstruction."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DRT/008/L3",
+      "title": "AUTONOMOUS FLIGHT AND MISSION PLANNING",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Autonomous Flight",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain waypoint navigation"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain Mission programming"
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Demonstrate waypoint navigation"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Understand Autonomous Flight",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Practice Path Accuracy"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Explain obstacle detection"
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Carryout flight time management"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Perform automated mission using Software"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know mission Planning Essentials",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Plan route for survey"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Plan route for mapping"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Carryout data collection"
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Carry out Risk assessment and mitigation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DRT/009/L3",
+      "title": "APPLICATIONS, CAREERS AND CERTIFICATIONS IN DRONE TECHNOLOGY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Applications of Drones",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the basics of Capturing high-quality images."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the basics of Capturing high quality videos."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain application of Drone in the area Agriculture in health assessment of crops"
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain application of drones in soil analysis."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Explain the application of Drone in wildlife monitoring."
+            },
+            {
+              "pc_code": "1.6",
+              "description": "Explain application of Drone in forest conservation."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Entrepreneurship and Career Opportunities in Drones",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify the opportunities in Photography"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Identify the opportunities in Surveying an area."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Identify the opportunities in inspection services"
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Practice basic skills in promoting drone services"
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Identify freelance opportunity in the Drone Ecosystem"
+            },
+            {
+              "pc_code": "2.6",
+              "description": "Explain the corporate roles available in the Drone Space."
+            },
+            {
+              "pc_code": "2.7",
+              "description": "Choose an area to specialise"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Know Advanced Applications and Certification Resources",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Explain applications in Inspection"
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Explain applications in search and Rescue"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Explain applications in logistics."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Explain applications in Mapping"
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Explain Certification bodies for Drone Pilots and Organizations"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
