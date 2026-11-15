@@ -96,6 +96,7 @@ These NOS have already been converted to JSON. Pick a trade **not** listed here 
 | ICT E-Commerce Development | | | | ✅ | ✅ |
 | ICT Front-End Web Development | | | ✅ | | |
 | ICT Graphic Design | | | ✅ | | |
+| ICT Home Automation IoT | | | ✅ | ✅ | |
 | ICT Internet of Things | | | ✅ | | |
 | ICT Mobile App Development | | | | | ✅ |
 | ICT Network Support Specialist | | | | ✅ | |

@@ -1,0 +1,1050 @@
+{
+  "trade_name": "NOS ICT Home Automation IoT",
+  "level": 4,
+  "units": [
+    {
+      "code": "ICT/HAIT/001/L4",
+      "title": "HEALTH AND SAFETY STANDARDS AND REGULATORY COMPLIANCE.",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Occupational Health and Safety Regulations",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe the key OHS principles governing home automation and IoT installations."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify specific national and international OHS regulations applicable to electrical and smart device installations."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the legal responsibilities of employers and workers under occupational safety laws in the home automation industry."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Apply Safety Practices in the Workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate the proper use of personal protective equipment (PPE) such as gloves, goggles, and insulated tools during installations."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Implement safe working procedures for handling and installing electrical components in home automation systems."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Inspect the work area for potential hazards, ensuring compliance with safety protocols before starting any installation."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Identify and Assess Workplace Hazards",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Conduct a risk assessment for a home automation installation site, identifying potential electrical, fire, and ergonomic hazards."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Evaluate the severity and likelihood of hazards identified during risk assessments to prioritize corrective actions."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Apply control measures such as grounding, insulation, and safety barriers to mitigate risks identified in the work environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Ensure Safe Installation of Home Automation and IoT Devices",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Follow safety guidelines when installing IoT devices to ensure proper insulation and protection against electrical surges."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Position and mount home automation equipment, such as hubs and smart sensors, in safe, non-hazardous locations."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Test the installed equipment to ensure that all safety mechanisms (e.g., circuit breakers, surge protectors) are functional and compliant with OHS standards."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Respond to Workplace Incidents and Emergencies",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Prepare an emergency response plan specific to the installation site, including evacuation routes and emergency contacts."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Demonstrate basic first aid procedures, such as treating burns or electrical shock, in a simulated emergency scenario."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Use firefighting equipment such as fire extinguishers effectively to control small electrical fires during IoT device installations."
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Comply with Legal and Ethical Obligations",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Verify that all installed devices and systems comply with local and international health and safety regulations."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Ensure adherence to electrical codes, such as wiring standards and safe installation practices, during the setup of home automation systems."
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Demonstrate ethical responsibility by maintaining a safe working environment that protects the health and safety of all individuals on-site."
+            }
+          ]
+        },
+        {
+          "lo_num": "7",
+          "description": "Maintain Documentation and Records",
+          "performance_criteria": [
+            {
+              "pc_code": "7.1",
+              "description": "Document safety checks and inspection results for all home automation and IoT installations to maintain compliance records."
+            },
+            {
+              "pc_code": "7.2",
+              "description": "Prepare a report detailing the risk assessments conducted, including the control measures implemented to mitigate identified risks."
+            },
+            {
+              "pc_code": "7.3",
+              "description": "Record and report incidents or near-miss events in the workplace, ensuring they are logged for future safety audits and improvements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/HAIT/002/L4",
+      "title": "TEAMWORK IN HOME AUTOMATION PROJECTS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the Importance of Teamwork in Home Automation Projects",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the role of teamwork in successfully completing home automation installations and ensuring system integration."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the benefits of collaborative work, such as efficiency, innovation, and problem-solving in-home automation projects."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe how different team members' roles (e.g., network technicians, electricians, project managers) contribute to the overall success of a project."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Contribute Effectively to a Team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Participate actively in team meetings, providing constructive input and listening to the ideas of others."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Offer support and assistance to team members when needed, such as helping with equipment setup or problem-solving during installations."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Complete assigned tasks within the agreed-upon timeframe, contributing to the overall project timeline and success."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Solve Problems Collaboratively",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Discuss potential challenges encountered during a home automation project with the team and suggest possible solutions."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Work together with team members to troubleshoot issues, such as system integration problems or installation delays, and develop a plan of action."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Brainstorm with the team to identify innovative solutions for optimizing the installation or configuration of home automation systems."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Manage Conflict and Resolve Disagreements in a Team",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Recognize the causes of conflict in team environments and their potential impact on home automation project outcomes."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Address conflicts directly and professionally, facilitating open discussions to resolve misunderstandings or disagreements."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Apply conflict resolution strategies, such as mediation or negotiation, to help team members reach a consensus and continue working productively."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/HAIT/003/L4",
+      "title": "COMMUNICATION IN HOME AUTOMATION AND IOT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Communicate Technical Information Effectively",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the functionality of home automation devices and IoT systems to clients in non-technical language to ensure clear understanding."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Prepare technical documentation, such as installation guides and system specifications, which is concise and easy to follow for both technical and non-technical users."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Demonstrate how to troubleshoot common technical issues using clear, step-by-step verbal or written instructions to guide clients or colleagues."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Collaborate Effectively with Team Members",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Use appropriate communication platforms (e.g., email, project management tools) to share updates, instructions, and progress reports with team members in real-time."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Listen actively during team discussions to fully understand and address the concerns or input of other team members."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Clarify technical instructions given by colleagues, asking follow-up questions to ensure accurate understanding and execution of tasks."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Interact Professionally with Clients and Stakeholders",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Conduct client consultations to gather project requirements and communicate possible solutions using a professional tone and clear, accessible language."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Present project updates, timelines, and system performance reports to clients or stakeholders, ensuring all critical information is communicated clearly and accurately."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Respond to client inquiries promptly and courteously, addressing their concerns or questions regarding system installations or maintenance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/HAIT/004/L4",
+      "title": "ADVANCED NETWORKING FOR IOT SYSTEMS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Design IoT Network Architectures",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Analyze the requirements of an IoT system and determine the appropriate network architecture based on scalability, device type, and communication protocols."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Create a network diagram that illustrates the placement of devices, hubs, routers, and gateways within an IoT environment."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify the most suitable communication protocols (e.g., Zigbee, Z-Wave, LoRaWAN, Wi-Fi) for different IoT devices in the system."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Calculate the bandwidth and data throughput requirements of the network based on device communication and system demands."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Justify the selection of network hardware (e.g., routers, switches, repeaters) to ensure optimal performance for IoT systems."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Configure and Secure IoT Networks",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Set up a secure network for IoT devices, including routers, hubs, and devices, following best practices for encryption and authentication."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Configure Quality of Service (QoS) settings to prioritize IoT device traffic, ensuring critical data is processed with minimal latency."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Enable network security features such as firewalls, encryption protocols (e.g., WPA3), and Virtual Private Networks (VPN) to protect IoT devices."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Monitor network traffic and identify potential vulnerabilities using intrusion detection systems (IDS) or monitoring software."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Update network devices with the latest firmware to address security vulnerabilities and improve performance."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Implement IoT Network Troubleshooting and Optimization Techniques",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Diagnose network issues by checking connectivity, signal strength, and interference sources in an IoT system."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Resolve device communication problems by reconfiguring network settings, repositioning devices, or adjusting signal strength."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Apply network optimization techniques such as load balancing, signal boosting, and reducing interference to enhance system performance."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Test the functionality of IoT devices after troubleshooting, ensuring seamless communication and system performance."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Document the steps taken during troubleshooting and optimization, creating a reference for future maintenance."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Manage IoT Network Scalability and Performance",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Evaluate the performance of the IoT network under different conditions, such as increasing the number of devices or adding new protocols."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Scale the IoT network by adding new devices or gateways while maintaining performance and ensuring seamless integration."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Optimize network performance by reallocating bandwidth, adjusting device priorities, or deploying mesh network solutions."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Monitor the IoT network for performance bottlenecks and recommend strategies for improving throughput and response times."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Implement cloud-based network management solutions to handle large-scale IoT deployments and ensure real-time system monitoring."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/HAIT/005/L4",
+      "title": "HOME AUTOMATION PROJECT MANAGEMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Plan Home Automation Projects",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define the project scope by identifying key objectives, deliverables, and system requirements for the home automation project."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Develop a detailed project plan, including timelines, tasks, and milestones for each phase of the installation and configuration process."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify the resources required for the project, such as labor, tools, and equipment, and allocate them based on project needs."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Establish a project budget by estimating the costs of materials, devices, and labor, ensuring it aligns with client expectations."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Create a risk management plan that identifies potential risks, mitigation strategies, and contingency plans."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Manage Resources and Teams in Home Automation Projects",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Assign specific roles and responsibilities to team members, ensuring each person understands their tasks in the project."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Coordinate with suppliers and subcontractors to ensure timely delivery of devices, materials, and services for the home automation system."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Monitor the performance of the project team, addressing any issues or delays in task completion and providing support where necessary."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Ensure that all team members have access to the tools and equipment they need to complete their assigned tasks efficiently."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Resolve conflicts or challenges within the team by facilitating communication and addressing concerns in a timely manner."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Oversee Project Execution and Quality Control",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Supervise the installation and configuration of home automation devices, ensuring adherence to project specifications and standards."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Inspect the quality of work throughout the project lifecycle, conducting regular checks to ensure compliance with safety and industry regulations."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Address technical issues or delays by adjusting schedules, reallocating resources, or troubleshooting installation problems."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Ensure that all devices are properly tested and that system integrations work as required before moving to the next phase of the project."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Document the progress of the project, including any changes or challenges encountered, to ensure transparent reporting to stakeholders."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Close and Review Home Automation Projects",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Conduct a final inspection of the installed home automation system, verifying that all components function correctly and meet the client's expectations."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Organize project documentation, including blueprints, device manuals, and system configurations, for handover to the client."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Prepare a project completion report that outlines the project\u2019s outcomes, timelines, and any deviations from the initial plan."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Explain how to ensure projects deliverables and signoff are in line with clients requirements"
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Facilitate a project debrief with the team, identifying lessons learned and areas for improvement for future projects."
+            },
+            {
+              "pc_code": "4.6",
+              "description": "Provide post-installation support to the client by offering training on system use and responding to any technical inquiries."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/HAIT/006/L4",
+      "title": "ENERGY MANAGEMENT IN SMART HOMES",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Energy Consumption in Smart Homes",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the key energy-consuming devices and systems in a smart home, including HVAC, lighting, and appliances."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Analyze the patterns of energy usage in different areas of the home, determining peak consumption times."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Compare the energy efficiency of various smart home devices, such as LED lighting versus traditional bulbs or smart thermostats versus standard models."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain how home automation systems contribute to energy savings by optimizing device usage and reducing standby consumption."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Evaluate the impact of energy management systems on overall household energy costs and carbon footprint."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Implement Smart Energy Management Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Install smart energy monitoring devices such as smart meters, energy sensors, or sub-meters to track real-time consumption."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Configure smart thermostats and HVAC systems to automatically adjust temperatures based on occupancy or external weather conditions."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Integrate lighting and appliance control systems with smart hubs, enabling energy-efficient automation schedules based on user habits."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Set up automation rules for controlling high-energy devices, ensuring they operate during off-peak hours to reduce energy costs."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Program smart devices to enter energy-saving modes when not in use or during periods of low occupancy."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Optimize Renewable Energy Integration in Smart Homes",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Assess the feasibility of integrating renewable energy sources such as solar panels or wind turbines into a smart home system."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Install energy storage solutions, such as batteries, to store excess energy generated by renewable sources for later use."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Connect renewable energy systems to the home automation platform, allowing users to monitor energy generation and consumption."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Optimize the usage of renewable energy by programming devices to operate when energy generation is at its peak."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Evaluate the benefits of grid-tied systems, which allow excess energy to be sold back to the grid, reducing energy bills."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Monitor and Maintain Energy Management Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Monitor real-time energy data using smart home dashboards or mobile apps to track energy consumption and savings."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Analyse energy usage reports generated by the system to identify areas where energy savings can be improved."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Test the functionality of energy management systems to ensure accurate monitoring and proper operation of connected devices."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Update smart energy devices and software regularly to ensure optimal performance and security of the energy management system."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Maintain energy management systems by conducting routine checks on device configurations, ensuring they adhere to energy-saving parameters."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/HAIT/007/L4",
+      "title": "SMART ENTERTAINMENT SYSTEMS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know Components of Smart Entertainment Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the key components of a smart entertainment system, such as smart TVs, streaming devices, speakers, and media servers."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the functions of audio-visual control hubs and how they manage different entertainment devices."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Compare various communication protocols (e.g., HDMI-CEC, Bluetooth, Wi-Fi) used for device connectivity and control."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Describe the process of integrating entertainment systems with other smart home devices, such as lighting and security systems."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Evaluate different smart media platforms (e.g., Netflix, Spotify) for compatibility with various smart entertainment devices."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Design and Plan Smart Entertainment Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Create a layout plan for the placement of audio and visual devices to optimize sound distribution and viewing angles."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Select appropriate devices, such as smart speakers and projectors, based on the client's requirements for a home entertainment setup."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Determine network bandwidth requirements to support multiple streaming devices and ensure smooth media playback."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Incorporate automation features into the entertainment system design, enabling voice control and smart device integration."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Prepare a wiring and connectivity plan to integrate the entertainment system with the home\u2019s existing network infrastructure."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Install and Configure Smart Entertainment Devices",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Set up smart TVs, projectors, and media devices, ensuring proper connection to the home network and internet services."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Configure smart speakers and sound systems for optimal sound quality, adjusting settings for room size and layout."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Integrate streaming platforms with the entertainment system, allowing access to online media content."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Program automation features such as voice commands, mobile app control, or scheduled media playback for user convenience."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Test all devices to ensure they are properly connected, functional, and responsive to user commands."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Maintain and Troubleshoot Smart Entertainment Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Monitor the performance of the entertainment system, including network connectivity and device responsiveness."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Diagnose issues related to audio, video, or connectivity problems, such as poor sound quality or buffering."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Update firmware and software on smart entertainment devices to ensure compatibility with new media platforms and services."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Repair or replace faulty components, such as damaged cables or unresponsive devices, to maintain system functionality."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Document common issues and solutions in a system maintenance log, providing a reference for future troubleshooting."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/HAIT/008/L4",
+      "title": "ENVIRONMENTAL AND HEALTH MONITORING SYSTEMS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the Components of Environmental and Health Monitoring Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify key sensors used in environmental monitoring systems, such as air quality sensors, temperature sensors, and humidity sensors."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe the role of health monitoring devices like smart wearables, heart rate monitors, and sleep trackers in smart homes."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the functions of data collection hubs that aggregate environmental and health data from various devices."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Compare different communication protocols (e.g., Zigbee, Wi-Fi, Bluetooth) used for transmitting data from monitoring devices."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Analyze how real-time data from these systems can be used to improve personal health and home environment safety."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Design and Plan Environmental and Health Monitoring Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Assess the specific environmental and health monitoring needs of a home, including air quality, temperature control, and health tracking."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Select appropriate monitoring devices based on home size, specific health concerns, and environmental factors."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Plan the placement of sensors and monitoring devices to ensure accurate data collection and effective coverage throughout the home."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Determine the power and network connectivity requirements for the devices, ensuring seamless communication with the smart hub."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Integrate automation triggers that respond to environmental and health data, such as turning on air purifiers when poor air quality is detected."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Install and Configure Environmental and Health Monitoring Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Install environmental sensors and health monitoring devices, ensuring they are properly positioned for accurate data collection."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Configure devices to connect with a central smart home system, enabling real-time monitoring through mobile apps or control panels."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Set up automation rules based on environmental data, such as activating HVAC systems when temperature or humidity reaches preset levels."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Calibrate monitoring devices to ensure accurate readings and proper functioning."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Test the system to ensure that all devices are correctly integrated, and data is transmitted without interruptions."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Monitor and Maintain Environmental and Health Monitoring Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Monitor real-time data from sensors and health devices through dashboards or apps, identifying trends in environmental and personal health data."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Analyse reports generated by the system to make informed decisions on improving the home environment or personal health practices."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Update the firmware of sensors and health monitoring devices regularly to ensure compatibility with the latest smart home technology."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Troubleshoot connectivity or performance issues in the monitoring system by checking device status, power, and network configurations."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Maintain the system by cleaning sensors, replacing worn-out components, and ensuring devices are functioning optimally for long-term use."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/HAIT/009/L4",
+      "title": "VOICE-ACTIVATED AND GESTURE CONTROL SYSTEMS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the Components and Technologies of Voice-Activated and Gesture Control Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the key components of voice-activated systems, such as smart speakers, microphones, and voice recognition software."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe how gesture recognition technologies, such as cameras and motion sensors, are integrated into smart home systems."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Compare different voice control platforms (e.g., Amazon Alexa, Google Assistant, Apple Siri) based on features and compatibility."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain the various communication protocols (e.g., Wi-Fi, Bluetooth, Zigbee) used for voice and gesture control systems."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Analyze how natural language processing (NLP) and machine learning enhance the accuracy and functionality of voice commands."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Design and Plan Voice-Activated and Gesture Control Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Assess the specific voice and gesture control needs of a home, including device compatibility and user accessibility requirements."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Select appropriate devices and platforms for voice and gesture control based on user preferences, system capabilities, and home layout."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Design the placement of smart speakers, microphones, and motion sensors to ensure accurate voice recognition and gesture detection."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Determine the necessary network and power requirements to support the voice and gesture control systems across multiple devices."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Incorporate automation routines and commands into the design, enabling users to control lighting, HVAC, and security systems hands-free."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Install and Configure Voice-Activated and Gesture Control Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Install smart speakers, microphones, and gesture control sensors in strategic locations for optimal user interaction and device control."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Configure voice control platforms to recognize user commands, including setting up personalized profiles and language options."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Integrate the voice-activated and gesture control systems with the home\u2019s existing smart devices, enabling seamless operation across the network."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Test voice and gesture recognition to ensure accuracy and responsiveness when controlling smart devices, adjusting sensitivity if necessary."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Program custom voice commands and gesture controls to trigger specific actions, such as activating scenes or adjusting room settings."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Maintain and Troubleshoot Voice-Activated and Gesture Control Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Monitor system performance by tracking response times, command accuracy, and user feedback on voice and gesture controls."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Diagnose issues related to voice command misinterpretation or gesture detection errors by checking device settings and sensor placement."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Update software and firmware for voice control devices and gesture sensors to improve functionality and ensure compatibility with new smart devices."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Repair or replace faulty components, such as microphones or motion sensors, to restore optimal system performance."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Document system configurations and troubleshooting steps, providing a reference for ongoing maintenance and user support."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/HAIT/010/L4",
+      "title": "AUTOMATION FOR SMART KITCHENS AND APPLIANCES",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the Components of Smart Kitchens and Appliances",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the key smart appliances commonly used in smart kitchens, such as smart refrigerators, ovens, dishwashers, and coffee machines."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Describe how smart kitchen hubs integrate with various appliances to provide centralized control and automation."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Compare different communication protocols (e.g., Wi-Fi, Bluetooth, Zigbee) used for controlling smart kitchen appliances."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Explain the energy-saving benefits of smart appliances, such as energy-efficient cooking modes and smart refrigeration management."
+            },
+            {
+              "pc_code": "1.5",
+              "description": "Analyze how sensors and automation can be used to monitor food storage, cooking progress, and kitchen safety."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Design and Plan Smart Kitchen Automation Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Assess the specific automation needs of a smart kitchen, including appliance control, energy management, and food safety monitoring."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Select appropriate smart appliances and kitchen automation systems based on user preferences, space layout, and compatibility."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Create a floor plan that strategically positions smart appliances for efficient use, connecting them to a centralized control system."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Determine the network and power requirements to support seamless communication and automation among the smart kitchen devices."
+            },
+            {
+              "pc_code": "2.5",
+              "description": "Integrate automation features such as voice commands, remote control, and scheduled operation for enhanced user convenience and energy efficiency."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Install and Configure Smart Kitchen Appliances",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Install smart kitchen appliances, ensuring proper connection to the home network and synchronization with control hubs or apps."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Configure the smart refrigerator to manage food inventory, set temperature zones, and send expiration notifications."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Set up automation routines for the smart oven and stove, including pre-programmed cooking schedules and safety shutoff features."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Program smart dishwashers and coffee machines to operate at optimal times, based on user schedules or off-peak energy hours."
+            },
+            {
+              "pc_code": "3.5",
+              "description": "Test the functionality of all smart kitchen appliances, ensuring seamless integration with the control hub and proper response to user inputs."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Monitor and Maintain Smart Kitchen Automation Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Monitor the performance of smart kitchen appliances using apps or control dashboards, tracking energy usage and appliance health."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Diagnose issues such as connectivity problems or appliance malfunctions by checking network connections and running diagnostic tests."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Update the firmware and software of smart kitchen appliances regularly to ensure optimal performance and the latest features."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Maintain smart kitchen systems by cleaning sensors, updating automation routines, and ensuring appliances function within optimal parameters."
+            },
+            {
+              "pc_code": "4.5",
+              "description": "Document appliance usage patterns, energy savings, and any troubleshooting steps taken for future maintenance and user reference."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

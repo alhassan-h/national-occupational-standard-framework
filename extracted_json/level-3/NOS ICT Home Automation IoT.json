@@ -1,0 +1,746 @@
+{
+  "trade_name": "NOS ICT Home Automation IoT",
+  "level": 3,
+  "units": [
+    {
+      "code": "ICT/HAIT/001/L3",
+      "title": "HEALTH AND SAFETY STANDARDS AND REGULATORY COMPLIANCE.",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Occupational Health and Safety Regulations",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe the key OHS principles governing home automation and IoT installations."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify specific national and international OHS regulations applicable to electrical and smart device installations."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain the legal responsibilities of employers and workers under occupational safety laws in the home automation industry."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Apply Safety Practices in the Workplace",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Demonstrate the proper use of personal protective equipment (PPE) such as gloves, goggles, and insulated tools during installations."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Implement safe working procedures for handling and installing electrical components in home automation systems."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Inspect the work area for potential hazards, ensuring compliance with safety protocols before starting any installation."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Identify and Assess Workplace Hazards",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Conduct a risk assessment for a home automation installation site, identifying potential electrical, fire, and ergonomic hazards."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Evaluate the severity and likelihood of hazards identified during risk assessments to prioritize corrective actions."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Apply control measures such as grounding, insulation, and safety barriers to mitigate risks identified in the work environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Ensure Safe Installation of Home Automation and IoT Devices",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Follow safety guidelines when installing IoT devices to ensure proper insulation and protection against electrical surges."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Mount home automation equipment, such as hubs and smart sensors, in safe, non-hazardous locations."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Test the installed equipment to ensure that all safety mechanisms (e.g., circuit breakers, surge protectors) are functional and compliant with OHS standards."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Comply with Legal and Ethical Obligations",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Verify that all installed devices and systems comply with local and international health and safety regulations."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Ensure adherence to electrical codes, such as wiring standards and safe installation practices."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Demonstrate ethical responsibility by maintaining a safe working environment that protects the health and safety of all individuals on-site."
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Maintain Documentation and Records",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Document safety checks for all home automation and IoT installations."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Prepare a report detailing the risk assessments conducted."
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Record incidents or near-miss events in the workplace, ensuring they are logged for future safety audits and improvements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/HAIT/002/L3",
+      "title": "TEAMWORK IN HOME AUTOMATION PROJECTS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the Importance of Teamwork in Home Automation Projects",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the role of teamwork in successfully completing home automation installations"
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the benefits of collaborative work, such as efficiency, innovation, and problem-solving."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe how different team members' roles contribute to the overall success of a project."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Contribute Effectively to a Team",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Participate actively in team meetings"
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Offer support and assistance to team members when needed."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Complete assigned tasks within the agreed-upon timeframe."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Solve Problems Collaboratively",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Discuss potential challenges encountered during a home automation project with the team."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Work together with team members to troubleshoot issues."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Identify innovative solutions for optimizing the installation of home automation systems."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Manage Conflict and Resolve Disagreements in a Team",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Recognize the causes of conflict in team environments and their potential impact on home automation project outcomes."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Address conflicts directly and professionally."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Apply conflict resolution strategies."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/HAIT/003/L3",
+      "title": "COMMUNICATION IN HOME AUTOMATION AND IOT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Communicate Technical Information Effectively",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the functionality of home automation devices and IoT systems to clients in non-technical language to ensure clear understanding."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Prepare technical documentation, such as installation guides and system specifications, which is concise and easy to follow for both technical and non-technical users."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Demonstrate how to troubleshoot common technical issues using clear, step-by-step verbal or written instructions to guide clients or colleagues."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Collaborate Effectively with Team Members",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Use appropriate communication platforms (e.g., email, project management tools) to share updates, instructions, and progress reports with team members in real-time."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Listen actively during team discussions to fully understand and address the concerns or input of other team members."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Clarify technical instructions given by colleagues, asking follow-up questions."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Interact Professionally with Clients and Stakeholders",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Conduct client consultations to gather project requirements and communicate possible solutions."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Present project updates, timelines, and system performance reports to clients"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Respond to client inquiries promptly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/HAIT/004/L3",
+      "title": "INTRODUCTION TO HOME AUTOMATION AND IoT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the Fundamentals of Home Automation and IoT",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Describe the key concepts of home automation and IoT."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Identify the core components of a typical home automation system, such as sensors, controllers, and network devices."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Explain how IoT devices communicate and interact with each other"
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Recognize the Applications and Benefits of Home Automation and IoT",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "List common applications of home automation systems, such as lighting control, security systems, and energy management."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Illustrate how home automation can enhance energy efficiency, convenience, and security in residential environments."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Discuss the potential benefits and challenges of IoT integration in modern homes, including privacy and data security concerns."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Explore Emerging Trends and Technologies in Home Automation and IoT",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Research the latest advancements in IoT technologies, such as smart speakers, voice assistants, and AI integration."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Identify upcoming trends in home automation, including interoperability standards, smart energy solutions, and automation in everyday appliances."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Analyse how new technologies, like 5G and edge computing, are impacting the development and expansion of home automation systems."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Understand the Networking Requirements for Home Automation Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify the types of networks commonly used in home automation systems."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Describe the role of gateways in facilitating communication between IoT devices."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Explain the importance of reliable and secure networking of IoT devices in smart homes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/HAIT/005/L3",
+      "title": "NETWORKING FUNDAMENTALS FOR HOME AUTOMATION",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the Basic Networking Concepts and Terminology",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define key networking terms, such as IP address, router, gateway, LAN, WAN, and subnet."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the role of network components in home automation networks."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify the differences between wired and wireless networks and their application in home automation systems."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Know Network Protocols Relevant to Home Automation",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Describe commonly used communication protocols in home automation, including Wi-Fi, Zigbee, Z-Wave, and Bluetooth."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Compare the advantages and disadvantages of different network protocols for specific smart home devices (e.g., security cameras, thermostats, lighting)."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Explain the importance of the Transmission Control Protocol/Internet Protocol (TCP/IP) in facilitating data transmission between IoT devices."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Set Up and Configure a Home Automation Network",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Configure a wireless router to serve as the central hub for a home automation network."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Connect multiple IoT devices to the network"
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Configure device settings and network parameters, such as SSID, encryption, and IP addressing, to optimize performance and security."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Optimize Network Performance for Home Automation Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Measure network performance metrics, such as bandwidth, latency, and signal strength, using appropriate diagnostic tools."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Adjust network settings, including channel selection, device prioritization (QoS), and bandwidth allocation, to improve overall system performance."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Implement network management tools to monitor network stability and performance over time."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Know the Role of Cloud Services in Home Automation Networks",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Explain how cloud services are integrated into home automation networks"
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Connect IoT devices to cloud-based platforms, enabling remote access and control through mobile apps or web interfaces."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Analyse the benefits and potential risks of using cloud services, including data privacy, reliability, and service costs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/HAIT/006/L3",
+      "title": "INSTALLATION AND CONFIGURATION OF HOME AUTOMATION SYSTEMS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Explain the Components and Architecture of Home Automation Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the key components of a home automation system, such as controllers, sensors, actuators, and hubs."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the role of communication protocols (e.g., Zigbee, Z-Wave, Wi-Fi) in connecting and controlling home automation devices."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Describe how various subsystems, such as lighting, HVAC, and security, interact within a smart home environment."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Install Home Automation Devices and Components",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Install basic home automation devices, such as smart thermostats, lights, or cameras, following manufacturer guidelines."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Position sensors and smart devices in optimal locations to ensure maximum efficiency and coverage in the home."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Connect devices to the central hub or controller and verify that they are powered and communicating with the network."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Configure Home Automation Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Configure device settings (e.g., schedules, preferences, triggers) using a smartphone app, desktop software, or control panel."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Integrate devices into a unified system, enabling communication between different subsystems, such as lighting and security."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Test the configuration by activating devices and verifying that they respond correctly to commands and automation rules."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Ensure System Security and Privacy",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Implement security measures, such as encryption and strong passwords, to protect home automation devices and networks from unauthorized access."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Enable security features such as two-factor authentication (2FA) and device monitoring to enhance system protection."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Monitor system logs for suspicious activity and take steps to secure vulnerable devices or settings."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Perform System Testing and Quality Assurance",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Test all installed devices to ensure they respond properly to user commands and automation rules and are integrated with other systems."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Conduct functional tests for automation scenarios, such as turning lights on when motion is detected or adjusting temperature based on time."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Verify that the system is operating within performance specifications, ensuring all devices work without delay or errors."
+            }
+          ]
+        },
+        {
+          "lo_num": "6",
+          "description": "Provide User Training and Support",
+          "performance_criteria": [
+            {
+              "pc_code": "6.1",
+              "description": "Explain system functionality and user controls to clients, demonstrating how to operate and customize their home automation system."
+            },
+            {
+              "pc_code": "6.2",
+              "description": "Provide documentation or user manuals that outline system features, troubleshooting steps, and maintenance tips."
+            },
+            {
+              "pc_code": "6.3",
+              "description": "Respond to client inquiries or issues post-installation, offering support and guidance on system use and optimization."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/HAIT/007/L3",
+      "title": "TROUBLESHOOTING HOME AUTOMATION AND IOT DEVICES",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Identify Common Issues in Home Automation and IoT Devices",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "List the common technical issues encountered in home automation devices, such as connectivity problems, sensor malfunctions, and power failures."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Recognize common symptoms of device malfunction, such as unresponsiveness, delays, or incorrect system behavior."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Categorize issues based on their origin, such as hardware faults, software glitches, or network connectivity issues."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Diagnose Connectivity Problems in IoT Devices",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Analyse network-related issues by checking Wi-Fi signal strength, interference, and router configuration settings."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Test the communication between IoT devices and the central hub or cloud service, ensuring they are properly connected."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Verify that device firmware and software versions are up to date to ensure compatibility with the home network and other devices."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Resolve Device Configuration and Integration Issues",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Reset devices to factory settings when necessary to resolve configuration conflicts and reconnect them to the home network."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Reconfigure device settings, such as IP addresses, network credentials, and automation rules, to resolve integration problems."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Update devices with the latest firmware and ensure that they are correctly paired with compatible hubs or controllers."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Troubleshoot Power and Hardware Issues",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Inspect power supplies and batteries to identify issues such as depleted batteries, loose connections, or faulty power adapters."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Replace defective hardware components like sensors, actuators, or cables to restore device functionality."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Test device circuits and power outputs to ensure all components are receiving adequate power for optimal operation."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Monitor and Analyse System Logs and Diagnostics",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Access system logs on devices or cloud platforms to monitor errors, warnings, and abnormal activities that indicate system issues."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Interpret diagnostic reports generated by smart devices or network management tools to identify potential causes of malfunctions."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Document the steps and findings from the troubleshooting process to ensure a clear record for future reference or further analysis."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/HAIT/008/L3",
+      "title": "SYSTEM INTEGRATION AND INTEROPERABILITY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Know the Principles of System Integration and Interoperability",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Define key concepts related to system integration and interoperability, including protocols, APIs, and standards."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the importance of integration in home automation, highlighting benefits such as enhanced functionality and user experience."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Identify common integration challenges and compatibility issues between different devices and systems."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Evaluate Device and System Compatibility",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Review device specifications and documentation to determine compatibility with existing home automation systems and protocols."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Compare integration options for devices that use different communication protocols, such as Zigbee, Z-Wave, and Wi-Fi."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Test interoperability between devices from different manufacturers to ensure they function together as intended."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Configure and Implement Integration Solutions",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Set up and configure a central hub or gateway to manage and control multiple home automation devices from different protocols."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Integrate devices into a unified system using available APIs or third-party platforms, ensuring that they can communicate and interact effectively."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Configure automation rules and scenarios that involve multiple devices, ensuring that actions and triggers work seamlessly across the system."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Verify integration by conducting tests to ensure that devices respond correctly to commands and automation rules."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Troubleshoot Integration and Interoperability Issues",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify integration issues, such as devices not responding or conflicting automation rules, by analysing system behaviour and logs."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Resolve interoperability problems by adjusting device settings, reconfiguring the central hub, or updating firmware/software as needed."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Document the troubleshooting process and solutions applied to address integration issues, creating a reference for future problems."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Test the system after troubleshooting to ensure that integration issues have been resolved and that the devices function correctly."
+            }
+          ]
+        },
+        {
+          "lo_num": "5",
+          "description": "Ensure Data Consistency and Synchronization Across Systems",
+          "performance_criteria": [
+            {
+              "pc_code": "5.1",
+              "description": "Monitor data exchange between integrated systems to ensure that information, such as device status and user settings, is synchronized accurately."
+            },
+            {
+              "pc_code": "5.2",
+              "description": "Implement data consistency checks and error handling procedures to address discrepancies or conflicts between systems."
+            },
+            {
+              "pc_code": "5.3",
+              "description": "Configure data synchronization settings to ensure that changes in one system are reflected across all integrated devices and platforms."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
