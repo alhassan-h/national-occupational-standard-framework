@@ -1,0 +1,664 @@
+{
+  "trade_name": "NOS ICT Digital Product Management",
+  "level": 3,
+  "units": [
+    {
+      "code": "ICT/DPM/001/L3",
+      "title": "HEALTH AND SAFETY PRACTICES IN ICT AND DIGITAL WORKSPACES",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand ergonomic principles in ICT workspaces",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify common ergonomic risks in digital workspaces."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate proper workstation setup for ergonomic safety."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Apply ergonomic practices to prevent strain and injury."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Evaluate ergonomic improvements in a digital workspace setting."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Promote cyber safety and digital hygiene",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Recognize the importance of secure digital behaviour."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Implement secure practices for handling digital devices and data."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Demonstrate secure password management and data encryption techniques."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Evaluate the risks of using public networks for digital tasks."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Identify mental health challenges in ICT environments",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Discuss common mental health issues associated with prolonged digital work."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Implement strategies to maintain mental well-being during long work hours."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Evaluate the effectiveness of mental health initiatives in ICT workspaces."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Recognize early signs of digital burnout and stress."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Apply health and safety regulations in digital workspaces",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify relevant health and safety regulations applicable to ICT workspaces."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Demonstrate compliance with local health and safety guidelines."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Evaluate the effectiveness of health and safety protocols in digital environments."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Implement corrective actions for non-compliance with safety regulations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DPM/002/L3",
+      "title": "TEAMWORK",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the roles within a digital product team",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify key roles in digital product development teams."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the responsibilities of each team member in the development process."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Evaluate the interdependence between different roles."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Demonstrate the ability to collaborate with various roles in a project."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Foster collaboration in cross-functional teams",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify tools and techniques for effective team collaboration."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Apply conflict resolution strategies to maintain team harmony."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Evaluate team performance and propose improvements."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Demonstrate the use of digital collaboration tools (e.g., Slack, Trello)."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Enhance communication within product teams",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Apply effective communication techniques in digital product meetings."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate clarity and precision in written and verbal communication."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Evaluate the impact of communication breakdowns on project timelines."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Suggest improvements to enhance team communication flow."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Evaluate team performance in product development cycles",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify key performance indicators (KPIs) for team performance."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Analyse team performance using established metrics."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Provide constructive feedback for team improvement."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Propose changes to improve overall team efficiency."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DPM/003/L3",
+      "title": "COMMUNICATION AND INTERPERSONAL SKILLS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Develop effective communication strategies for stakeholders",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify key internal and external stakeholders in product development."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate tailored communication for different stakeholder groups."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Evaluate stakeholder feedback for product adjustments."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Demonstrate the ability to mediate between conflicting stakeholder interests."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Communicate product vision and goals clearly",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Craft clear and concise product vision statements."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate the ability to present product goals to a team."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Evaluate the alignment of the team\u2019s work with the product vision."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Adjust communication to ensure alignment with changing product goals."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Use digital tools to enhance communication",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify suitable communication tools for various team sizes and types."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate the ability to manage communication through project management tools."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Evaluate the effectiveness of communication channels (e.g., email, video meetings)."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Implement changes to improve communication efficiency using digital tools."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Manage conflict through effective communication",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify common sources of conflict in digital product management."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Demonstrate active listening and empathy in conflict resolution."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Evaluate different conflict management strategies."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Propose communication solutions to resolve specific conflicts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DPM/004/L3",
+      "title": "FUNDAMENTALS OF DIGITAL PRODUCT MANAGEMENT",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the digital product lifecycle",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the stages of the digital product lifecycle."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Explain the activities associated with each stage of the lifecycle."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Demonstrate the ability to create a product roadmap."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Evaluate product progress through its lifecycle."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Identify key stakeholders in product development",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "List the main stakeholders involved in digital product management."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate how to engage stakeholders throughout the product lifecycle."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Evaluate stakeholder feedback for product improvement."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Propose strategies for maintaining stakeholder engagement"
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Use digital product management tools effectively",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify essential tools used in digital product management."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate the ability to manage tasks using product management software."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Evaluate the efficiency of different tools in managing the product lifecycle."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Propose new tools or methods to improve product management."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Apply product management methodologies",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify common methodologies used in product management (Agile, Scrum, Waterfall)."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Demonstrate the ability to apply Agile principles in product management."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Evaluate the effectiveness of various methodologies in different project environments."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Adjust methodologies to meet the needs of a specific project."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DPM/005/L3",
+      "title": "AGILE AND LEAN PRACTICES FOR PRODUCT MANAGERS",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand Agile principles in product management",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the core principles of Agile methodology."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate the ability to implement Agile processes (sprints, backlogs)."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Evaluate team performance in Agile environments."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Propose improvements for Agile practices in a product development cycle."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Apply Lean principles to reduce waste in product development",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify types of waste in product development."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate the ability to streamline product development processes."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Evaluate the efficiency of Lean practices in reducing costs and time."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Propose solutions for minimizing waste in future projects."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Incorporate customer feedback into product iterations",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Demonstrate how to gather and prioritize customer feedback."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Apply feedback to improve product features and functionality."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Evaluate the effectiveness of feedback loops in Agile practices."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Propose changes to better integrate feedback into development cycles."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Manage iterative product releases effectively",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Demonstrate the ability to plan and execute iterative product releases."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Evaluate the impact of incremental releases on user satisfaction."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Adjust product roadmaps based on release outcomes."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Propose strategies for managing future releases."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DPM/006/L3",
+      "title": "BUILDING A DIGITAL PRODUCT STRATEGY",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the key components of a digital product strategy",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Identify the main elements of a digital product strategy (vision, goals, roadmap)."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate the ability to articulate a clear product vision."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Evaluate the alignment of the strategy with business objectives."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Propose enhancements to an existing product strategy."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Conduct a thorough market analysis to inform product strategy",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify key market trends and competitors in the digital product space."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate the ability to perform SWOT (Strengths, Weaknesses, Opportunities, Threats) analysis."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Evaluate the potential market opportunities for a new or existing product."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Apply market analysis results to refine product positioning and strategy."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Create a product roadmap aligned with strategic goals",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Develop a high-level product roadmap that outlines key milestones."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate how to prioritize features and releases based on strategic goals."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Evaluate the feasibility of the product roadmap within the given resources."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Propose adjustments to the roadmap to address changes in market or business conditions."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Align product strategy with organizational resources and capabilities",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify the internal resources needed to execute the product strategy (people, technology, budget)."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Demonstrate the ability to align cross-functional teams with strategic product goals."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Evaluate the organization's capabilities to meet the product's strategic demands."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Propose solutions for resource gaps that may hinder the execution of the strategy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "ICT/DPM/007/L3",
+      "title": "DESIGN THINKING AND USER-CENTRED PRODUCT DESIGN",
+      "learning_outcomes": [
+        {
+          "lo_num": "1",
+          "description": "Understand the principles of Design Thinking in product development",
+          "performance_criteria": [
+            {
+              "pc_code": "1.1",
+              "description": "Explain the key stages of the Design Thinking process (Empathize, Define, Ideate, Prototype, Test)."
+            },
+            {
+              "pc_code": "1.2",
+              "description": "Demonstrate the ability to apply Design Thinking to solve a user problem."
+            },
+            {
+              "pc_code": "1.3",
+              "description": "Evaluate the effectiveness of using Design Thinking to drive innovation."
+            },
+            {
+              "pc_code": "1.4",
+              "description": "Propose ways to integrate Design Thinking into ongoing product development."
+            }
+          ]
+        },
+        {
+          "lo_num": "2",
+          "description": "Incorporate user-centred design into product development",
+          "performance_criteria": [
+            {
+              "pc_code": "2.1",
+              "description": "Identify the core principles of user-centred design (UCD)."
+            },
+            {
+              "pc_code": "2.2",
+              "description": "Demonstrate the ability to create user personas and journey maps."
+            },
+            {
+              "pc_code": "2.3",
+              "description": "Evaluate the product's design based on user feedback and interaction data."
+            },
+            {
+              "pc_code": "2.4",
+              "description": "Propose design changes to improve user experience and satisfaction."
+            }
+          ]
+        },
+        {
+          "lo_num": "3",
+          "description": "Use prototyping to test and refine product concepts",
+          "performance_criteria": [
+            {
+              "pc_code": "3.1",
+              "description": "Identify different types of prototypes (low-fidelity, high-fidelity) and their uses."
+            },
+            {
+              "pc_code": "3.2",
+              "description": "Demonstrate how to create and test a prototype with users."
+            },
+            {
+              "pc_code": "3.3",
+              "description": "Evaluate user feedback gathered from prototype testing."
+            },
+            {
+              "pc_code": "3.4",
+              "description": "Propose iterations on the prototype based on test results."
+            }
+          ]
+        },
+        {
+          "lo_num": "4",
+          "description": "Apply user feedback to refine product design and features",
+          "performance_criteria": [
+            {
+              "pc_code": "4.1",
+              "description": "Identify methods for gathering qualitative and quantitative user feedback (surveys, interviews, usability tests)."
+            },
+            {
+              "pc_code": "4.2",
+              "description": "Demonstrate how to prioritize user feedback based on product goals."
+            },
+            {
+              "pc_code": "4.3",
+              "description": "Evaluate the impact of user-driven changes on the product\u2019s usability and value."
+            },
+            {
+              "pc_code": "4.4",
+              "description": "Propose adjustments to the product design based on continuous feedback loops."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
